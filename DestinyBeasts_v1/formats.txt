@@ -1,0 +1,12 @@
+<formatdefinitions>
+
+<format>
+     <label>Playable Cards</label>
+     <set>STRT</set>
+</format>
+<format>
+	<label>References</label>
+	 <set>REF0</set>
+</format>
+
+</formatdefinitions>

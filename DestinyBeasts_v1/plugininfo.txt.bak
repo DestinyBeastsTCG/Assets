@@ -1,0 +1,237 @@
+<plugin>
+
+//Global Stats
+
+//Player Stats
+	<playerstat>
+		<label>SoulPoints</label>
+		<initialvalue>10</initialvalue>
+	</playerstat>
+	<playerstat>
+		<label>DelusionPoints</label>
+	</playerstat>
+	
+//Deck Zones
+	<deckzone>
+		<label>Deck</label>
+		<shuffle>yes</shuffle>
+	</deckzone>
+	<deckzone>
+		<label>Reference Cards</label>
+	</deckzone>
+	<deckzone>
+		<label>Afflictions</label>
+	</deckzone>
+	<deckzone>
+		<label>Empowerments</label>
+	</deckzone>
+
+//Game Zones
+	<gamezone>
+		<label>Hand</label>
+		<visibletoowner>yes</visibletoowner>
+	</gamezone>
+	<gamezone>
+		<label>Deck</label>
+		<visibletoowner>yes</visibletoowner>
+	</gamezone>
+	<gamezone>
+		<label>Discard Pile</label>
+		<visibletoowner>yes</visibletoowner>
+		<visibletoothers>yes</visibletoothers>
+	</gamezone>
+	<gamezone>
+		<label>Reference Cards</label>
+		<visibletoowner>yes</visibletoowner>
+		<visibletoothers>yes</visibletoothers>
+	</gamezone>
+	<gamezone>
+		<label>Afflictions</label>
+		<visibletoowner>yes</visibletoowner>
+		<visibletoothers>yes</visibletoothers>
+	</gamezone>
+	<gamezone>
+		<label>Empowerments</label>
+		<visibletoowner>yes</visibletoowner>
+		<visibletoothers>yes</visibletoothers>
+	</gamezone>
+
+//Phases
+	<phase>
+		<label>Start</label>
+	</phase>
+	<phase>
+		<label>Draw</label>
+	</phase>
+	<phase>
+		<label>Speed 3 Round</label>
+	</phase>
+	<phase>
+		<label>Speed 2 Round</label>
+	</phase>
+	<phase>
+		<label>Speed 1 Round</label>
+	</phase>	
+	<phase>
+		<label>End</label>
+	</phase>	
+	
+//General Functions
+	<generalfunction>
+		<label>Draw</label>
+		<kind>DRAWCARD</kind>
+		<includeasbutton>yes</includeasbutton>
+	</generalfunction>
+		<generalfunction>
+		<label>Next Phase</label>
+		<kind>NEXTPHASE</kind>
+		<includeasbutton>yes</includeasbutton>
+	</generalfunction>
+	<generalfunction>
+		<label>End Turn</label>
+		<kind>NEXTTURN</kind>
+		<includeasbutton>yes</includeasbutton>
+	</generalfunction>
+	<generalfunction>
+		<label>Flip Coin</label>
+		<kind>FLIPCOIN</kind>
+		<includeasbutton>yes</includeasbutton>
+	</generalfunction>
+	<generalfunction>
+		<label>Roll a Die</label>
+		<kind>ROLLD6</kind>
+		<includeasbutton>yes</includeasbutton>
+	</generalfunction>
+	
+//Card Functions
+	<cardfunction>
+		<label>Turn Over</label>
+		<kind>TURNOVER</kind>
+	</cardfunction>
+	<cardfunction>
+		<label>Edit Note</label>
+		<kind>EDITNOTE</kind>
+		<PositionX>.85</PositionX>
+		<PositionY>.1</PositionY>
+	</cardfunction>
+	
+	<cardfunction>
+		<label>Add 1 Affliction Counter</label>
+		<color>white</color>
+		<textoverimagecolor>DAA520</textoverimagecolor>
+		<kind>ADDCOUNTER</kind>
+		<PositionX>1</PositionX>
+		<PositionY>.3</PositionY>
+	</cardfunction>
+	<cardfunction>
+		<label>Remove 1 Affliction Counter</label>
+		<kind>REMOVECOUNTER</kind>
+		<color>white</color>
+	</cardfunction>
+	
+	<cardfunction>
+		<label>Add 1 Cooldown Counter</label>
+		<color>blue</color>
+		<kind>ADDCOUNTER</kind>
+		<PositionX>0</PositionX>
+		<PositionY>.3</PositionY>
+	</cardfunction>
+	<cardfunction>
+		<label>Remove 1 Cooldown Counter</label>
+		<kind>REMOVECOUNTER</kind>
+		<color>blue</color>
+	</cardfunction>
+	
+	<cardfunction>
+		<label>Add 1 Delusion Point</label>
+		<color>black</color>
+		<textoverimagecolor>000000</textoverimagecolor>
+		<kind>ADDCOUNTER</kind>
+		<PositionX>.5</PositionX>
+		<PositionY>.25</PositionY>
+	</cardfunction>
+	<cardfunction>
+		<label>Remove 1 Delusion Point</label>
+		<kind>REMOVECOUNTER</kind>
+		<color>black</color>
+	</cardfunction>
+	
+	<cardfunction>
+		<label>Add 1 Empowerment Counter</label>
+		<color>violet</color>
+		<textoverimagecolor>FFFFFF</textoverimagecolor>
+		<kind>ADDCOUNTER</kind>
+		<PositionX>.5</PositionX>
+		<PositionY>0</PositionY>
+	</cardfunction>
+	<cardfunction>
+		<label>Remove 1 Empowerment Counter</label>
+		<kind>REMOVECOUNTER</kind>
+		<color>violet</color>
+	</cardfunction>
+	
+	<cardfunction>
+		<label>Add 1 Soul Point</label>
+		<color>indigo</color>
+		<kind>ADDCOUNTER</kind>
+		<PositionX>.5</PositionX>
+		<PositionY>.75</PositionY>
+	</cardfunction>
+	<cardfunction>
+		<label>Remove 1 Soul Point</label>
+		<kind>REMOVECOUNTER</kind>
+		<color>indigo</color>
+	</cardfunction>
+	
+	<cardfunction>
+		<label>Add 1 Speed Override</label>
+		<color>yellow</color>
+		<kind>ADDCOUNTER</kind>
+		<PositionX>1</PositionX>
+		<PositionY>.7</PositionY>
+	</cardfunction>
+	<cardfunction>
+		<label>Remove 1 Speed Override</label>
+		<kind>REMOVECOUNTER</kind>
+		<color>yellow</color>
+	</cardfunction>
+
+	<cardfunction>
+		<label>Capture</label>
+		<kind>CHANGEOWNER</kind>
+	</cardfunction>
+	<cardfunction>
+		<label>Clear Counters</label>
+		<kind>CLEARCARD</kind>
+	</cardfunction>
+	
+	<cardfunction>
+		<label>Add Damage</label>
+		<color>red</color>
+		<textoverimagecolor>DAA520</textoverimagecolor>
+		<kind>ADDCOUNTER</kind>
+		<PositionX>.5</PositionX>
+		<PositionY>1</PositionY>
+	</cardfunction>
+	<cardfunction>
+		<label>Add Temporary Health</label>
+		<color>green</color>
+		<textoverimagecolor>FFFFFF</textoverimagecolor>
+		<kind>ADDCOUNTER</kind>
+		<PositionX>0</PositionX>
+		<PositionY>.7</PositionY>
+	</cardfunction>
+
+
+	
+//Other Definitions
+
+	<definition>
+		<kind>ISYOURFACEDOWNVISIBLE</kind>
+	</definition>
+	<definition>
+		<kind>TABLEITEMSCALE</kind>
+		<value>175</value>
+	</definition>
+
+</plugin>

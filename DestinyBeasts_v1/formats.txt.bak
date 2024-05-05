@@ -1,0 +1,9 @@
+<formatdefinitions>
+
+<format>
+     <label>Block 1</label>
+     <set>STRT</set>
+	 <set>REF0</set>
+</format>
+
+</formatdefinitions>
