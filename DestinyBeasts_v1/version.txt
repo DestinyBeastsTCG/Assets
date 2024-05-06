@@ -1,8 +1,8 @@
 <version>
 
 <lastupdateYYMMDD>240505</lastupdateYYMMDD>
-<versionurl></versionurl>
-<updateurl></updateurl>
-<message></message>
+<versionurl>https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/version.txt</versionurl>
+<updateurl>https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/updatelist.txt</updateurl>
+<message>Yay there's an update!</message>
 
 </version>
