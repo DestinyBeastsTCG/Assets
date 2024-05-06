@@ -1,20 +1,20 @@
 DestinyBeastsTCG	05-05-24
 
-plugins/DestinyBeastsTCG/plugininfo.txt https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/plugininfo.txt 000000
-plugins/DestinyBeastsTCG/formats.txt https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/formats.txt 000000
-plugins/DestinyBeastsTCG/pluginpreferences.txt https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/pluginpreferences.txt 000000
+plugins/DestinyBeastsTCG/plugininfo.txt	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/plugininfo.txt	430820
+plugins/DestinyBeastsTCG/formats.txt	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/formats.txt	14999
+plugins/DestinyBeastsTCG/pluginpreferences.txt	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/pluginpreferences.txt	229401
 
-plugins/DestinyBeastsTCG/images/Phase1.jpg https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/images/Phase1.jpg 000000
-plugins/DestinyBeastsTCG/images/Phase2.jpg https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/images/Phase2.jpg 000000
-plugins/DestinyBeastsTCG/images/Phase3.jpg https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/images/Phase3.jpg 000000
-plugins/DestinyBeastsTCG/images/Phase4.jpg https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/images/Phase4.jpg 000000
-plugins/DestinyBeastsTCG/images/Phase5.jpg https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/images/Phase5.jpg 000000
-plugins/DestinyBeastsTCG/images/Phase6.jpg https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/images/Phase6.jpg 000000
+plugins/DestinyBeastsTCG/images/Phase1.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/images/Phase1.jpg	-54933
+plugins/DestinyBeastsTCG/images/Phase2.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/images/Phase2.jpg	-41362
+plugins/DestinyBeastsTCG/images/Phase3.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/images/Phase3.jpg	-10795
+plugins/DestinyBeastsTCG/images/Phase4.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/images/Phase4.jpg	-13003
+plugins/DestinyBeastsTCG/images/Phase5.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/images/Phase5.jpg	-26190
+plugins/DestinyBeastsTCG/images/Phase6.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/images/Phase6.jpg	-7368
 
-plugins/DestinyBeastsTCG/sets/carddata.txt https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/carddata.txt 000000
+plugins/DestinyBeastsTCG/sets/carddata.txt	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/carddata.txt	919760
 
-plugins/DestinyBeastsTCG/sets/setimages/general/cardback.jpg https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/general/cardback.jpg 000000
-plugins/DestinyBeastsTCG/sets/setimages/general/spawned.jpg https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/general/spawned.jpg 000000
+plugins/DestinyBeastsTCG/sets/setimages/general/cardback.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/general/cardback.jpg	-31525
+plugins/DestinyBeastsTCG/sets/setimages/general/spawned.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/general/spawned.jpg	-48600
 
 REF0/Afflictions https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/REF0/Afflictions.jpg
 REF0/Empowerments https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/REF0/Empowerments.jpg
