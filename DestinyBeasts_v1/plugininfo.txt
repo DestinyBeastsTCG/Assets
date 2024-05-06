@@ -17,13 +17,13 @@
 		<shuffle>yes</shuffle>
 	</deckzone>
 	<deckzone>
-		<label>Reference Cards</label>
-	</deckzone>
-	<deckzone>
 		<label>Afflictions</label>
 	</deckzone>
 	<deckzone>
 		<label>Empowerments</label>
+	</deckzone>
+	<deckzone>
+		<label>Reference Cards</label>
 	</deckzone>
 
 //Game Zones
@@ -41,17 +41,17 @@
 		<visibletoothers>yes</visibletoothers>
 	</gamezone>
 	<gamezone>
-		<label>Reference Cards</label>
-		<visibletoowner>yes</visibletoowner>
-		<visibletoothers>yes</visibletoothers>
-	</gamezone>
-	<gamezone>
 		<label>Afflictions</label>
 		<visibletoowner>yes</visibletoowner>
 		<visibletoothers>yes</visibletoothers>
 	</gamezone>
 	<gamezone>
 		<label>Empowerments</label>
+		<visibletoowner>yes</visibletoowner>
+		<visibletoothers>yes</visibletoothers>
+	</gamezone>
+	<gamezone>
+		<label>Reference Cards</label>
 		<visibletoowner>yes</visibletoowner>
 		<visibletoothers>yes</visibletoothers>
 	</gamezone>
