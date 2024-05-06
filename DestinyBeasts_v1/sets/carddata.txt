@@ -76,5 +76,24 @@ Mirage Kitten Token	STRT	Mirage_Kitten_Token	073	Token	Beast Token	50	50	1	-	-
 
 Afflictions	REF0	Afflictions	001	Reference	Afflictions	-	-	-	-	-	-
 Empowerments	REF0	Empowerments	002	Reference	Empowerments	-	-	-	-	-	-
-Your Points Card	REF0	You_Points_Card	003	Reference	Points Card	-	-	-	-	-	-
-Opponent's Points Card	REF0	Opponent_Points_Card	004	Reference	Points Card	-	-	-	-	-	-
+Your Points Card	REF0	You_Points_Card	003	Reference	Point Tracker	-	-	-	-	-	-
+Opponent's Points Card	REF0	Opponent_Points_Card	004	Reference	Point Tracker	-	-	-	-	-	-
+Chilled	REF0	Affliction_Chilled	005	Affliction	Chilled	-	-	-	-	-	-
+Entangled	REF0	Affliction_Entangled	006	Affliction	Entangled	-	-	-	-	-	-
+Flooded	REF0	Affliction_Flooded	007	Affliction	Flooded	-	-	-	-	-	-
+Infected	REF0	Affliction_Infected	008	Affliction	Infected	-	-	-	-	-	-
+Shattered	REF0	Affliction_Shattered	009	Affliction	Shattered	-	-	-	-	-	-
+Shocked	REF0	Affliction_Shocked	010	Affliction	Shocked	-	-	-	-	-	-
+Singed	REF0	Affliction_Singed	011	Affliction	Singed	-	-	-	-	-	-
+Winded	REF0	Affliction_Winded	012	Affliction	Winded	-	-	-	-	-	-
+
+Erratic	REF0	Empowerment_Erratic	013	Empowerment	Erratic	-	-	-	-	-	-
+Fate Guard	REF0	Empowerment_FateGuard	014	Empowerment	Fate Guard	-	-	-	-	-	-
+Frugal	REF0	Empowerment_Frugal	015	Empowerment	Frugal	-	-	-	-	-	-
+Invigorated	REF0	Empowerment_Invigorated	016	Empowerment	Invigorated	-	-	-	-	-	-
+Irresistible	REF0	Empowerment_Irresistible	017	Empowerment	Irresistible	-	-	-	-	-	-
+Quickened	REF0	Empowerment_Quickened	018	Empowerment	Quickened	-	-	-	-	-	-
+Rejuvenated	REF0	Empowerment_Rejuvenated	019	Empowerment	Rejuvenated	-	-	-	-	-	-
+Safeguarded	REF0	Empowerment_Safeguarded	020	Empowerment	Safeguarded	-	-	-	-	-	-
+Unbreaking	REF0	Empowerment_Unbreaking	021	Empowerment	Unbreaking	-	-	-	-	-	-
+Unstoppable	REF0	Empowerment_Unstoppable	022	Empowerment	Unstoppable	-	-	-	-	-	-
