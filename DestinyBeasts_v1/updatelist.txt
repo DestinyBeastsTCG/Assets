@@ -1,0 +1,31 @@
+DestinyBeasts	05-05-24
+
+plugins/DestinyBeastsTCG/plugininfo.txt https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/plugininfo.txt 000000
+plugins/DestinyBeastsTCG/formats.txt https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/formats.txt 000000
+plugins/DestinyBeastsTCG/pluginpreferences.txt https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/pluginpreferences.txt 000000
+
+plugins/DestinyBeastsTCG/images/Phase1.jpg https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/images/Phase1.jpg 000000
+plugins/DestinyBeastsTCG/images/Phase2.jpg https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/images/Phase2.jpg 000000
+plugins/DestinyBeastsTCG/images/Phase3.jpg https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/images/Phase3.jpg 000000
+plugins/DestinyBeastsTCG/images/Phase4.jpg https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/images/Phase4.jpg 000000
+plugins/DestinyBeastsTCG/images/Phase5.jpg https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/images/Phase5.jpg 000000
+plugins/DestinyBeastsTCG/images/Phase6.jpg https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/images/Phase6.jpg 000000
+
+plugins/DestinyBeastsTCG/sets/carddata.txt https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/carddata.txt 000000
+
+plugins/DestinyBeastsTCG/sets/setimages/general/cardback.jpg https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/general/cardback.jpg 000000
+plugins/DestinyBeastsTCG/sets/setimages/general/spawned.jpg https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/general/spawned.jpg 000000
+
+REF0/Afflictions https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/REF0/Afflictions.jpg
+REF0/Empowerments https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/REF0/Empowerments.jpg
+REF0/Opponent_Points_Card https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/REF0/Opponent_Points_Card.jpg
+REF0/You_Points_Card https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/REF0/You_Points_Card.jpg
+
+STRT/A_Friend_in_Need.jpg https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/STRT/A_Friend_in_Need.jpg
+STRT/Artifact_of_Awakening.jpg https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/STRT/Artifact_of_Awakening.jpg
+STRT/Fearline.jpg https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/STRT/Fearline.jpg
+STRT/GWEN.jpg https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/STRT/GWEN.jpg
+STRT/Myx_Up.jpg https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/STRT/Myx_Up.jpg
+STRT/Nelly.jpg https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/STRT/Nelly.jpg
+STRT/Noms.jpg https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/STRT/Noms.jpg
+STRT/Sugaran.jpg https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/STRT/Sugaran.jpg

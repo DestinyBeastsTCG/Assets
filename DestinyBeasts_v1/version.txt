@@ -1,0 +1,8 @@
+<version>
+
+<lastupdateYYMMDD>240505</lastupdateYYMMDD>
+<versionurl></versionurl>
+<updateurl></updateurl>
+<message></message>
+
+</version>
