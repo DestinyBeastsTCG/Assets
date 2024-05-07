@@ -1,4 +1,4 @@
-DestinyBeastsTCG	05-07-24
+DestinyBeastsTCG	05-05-24
 
 plugins/DestinyBeastsTCG/plugininfo.txt https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/plugininfo.txt 430820
 plugins/DestinyBeastsTCG/formats.txt https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/formats.txt 14999
@@ -20,8 +20,55 @@ plugins/DestinyBeastsTCG/sets/setimages/general/cardback.jpg https://destinybeas
 plugins/DestinyBeastsTCG/sets/setimages/general/spawned.jpg https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/general/spawned.jpg -48600
 
 CardImageURLs
+REF0/Afflictions https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/REF0/Afflictions.jpg
+REF0/Empowerments https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/REF0/Empowerments.jpg
+REF0/Opponent_Points_Card https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/REF0/Opponent_Points_Card.jpg
+REF0/You_Points_Card https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/REF0/You_Points_Card.jpg
 
-CardURLFiles:
-CardImageURLs1.txt
-CardImageURLs2.txt
-CardImageURLs3.txt
+REF0/Affliction_Chilled https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/REF0/Affliction_Chilled.jpg
+REF0/Affliction_Entangled https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/REF0/Affliction_Entangled.jpg
+REF0/Affliction_Flooded https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/REF0/Affliction_Flooded.jpg
+REF0/Affliction_Infected https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/REF0/Affliction_Infected.jpg
+REF0/Affliction_Shattered https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/REF0/Affliction_Shattered.jpg
+REF0/Affliction_Shocked https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/REF0/Affliction_Shocked.jpg
+REF0/Affliction_Singed https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/REF0/Affliction_Singed.jpg
+REF0/Affliction_Winded https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/REF0/Affliction_Winded.jpg
+
+REF0/Empowerment_Erratic https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/REF0/Empowerment_Erratic.jpg
+REF0/Empowerment_FateGuard https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/REF0/Empowerment_FateGuard.jpg
+REF0/Empowerment_Frugal https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/REF0/Empowerment_Frugal.jpg
+REF0/Empowerment_Invigorated https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/REF0/Empowerment_Invigorated.jpg
+REF0/Empowerment_Irresistible https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/REF0/Empowerment_Irresistible.jpg
+REF0/Empowerment_Quickened https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/REF0/Empowerment_Quickened.jpg
+REF0/Empowerment_Rejuvenated https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/REF0/Empowerment_Rejuvenated.jpg
+REF0/Empowerment_Safeguarded https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/REF0/Empowerment_Safeguarded.jpg
+REF0/Empowerment_Unbreaking https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/REF0/Empowerment_Unbreaking.jpg
+REF0/Empowerment_Unstoppable https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/REF0/Empowerment_Unstoppable.jpg
+
+STRT/Ardinlac_The_Blustermage.jpg https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/FAAS/Ardinlac_The_Blustermage.jpg
+STRT/Ate_The_Blustermage.jpg https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/FAAS/Ate_The_Blustermage.jpg
+STRT/Blustermage_Cloak_Ceremony.jpg https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/FAAS/Blustermage_Cloak_Ceremony.jpg
+STRT/Blustermage_Nesting.jpg https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/FAAS/Blustermage_Nesting.jpg
+STRT/Blustermage_Olive_Branch	Blustermage_Olive_Branch_s.jpg https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/FAAS/Blustermage_Olive_Branch	Blustermage_Olive_Branch_s.jpg
+STRT/Cawma_The_Blustermage.jpg https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/FAAS/Cawma_The_Blustermage.jpg
+STRT/Cecili_The_Blustermage.jpg https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/FAAS/Cecili_The_Blustermage.jpg
+STRT/Grand_Blustermage_Library.jpg https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/FAAS/Grand_Blustermage_Library.jpg
+STRT/Kenja_The_Blustermage.jpg https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/FAAS/Kenja_The_Blustermage.jpg
+STRT/Quetzalli_The_Blustermage.jpg https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/FAAS/Quetzalli_The_Blustermage.jpg
+STRT/Ramona_The_Blustermage.jpg https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/FAAS/Ramona_The_Blustermage.jpg
+STRT/Shorenti_Accumulation.jpg https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/FAAS/Shorenti_Accumulation.jpg
+STRT/Shorenti_Awakening.jpg https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/FAAS/Shorenti_Awakening.jpg
+STRT/Shorenti_Chalcedonyus.jpg https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/FAAS/Shorenti_Chalcedonyus.jpg
+STRT/Shorenti_Chordy.jpg https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/FAAS/Shorenti_Chordy.jpg
+STRT/Shorenti_Crysadillo.jpg https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/FAAS/Shorenti_Crysadillo.jpg
+STRT/Shorenti_Gem_Offering.jpg https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/FAAS/Shorenti_Gem_Offering.jpg
+STRT/Shorenti_Gembug.jpg https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/FAAS/Shorenti_Gembug.jpg
+STRT/Shorenti_Gempaca.jpg https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/FAAS/Shorenti_Gempaca.jpg
+STRT/Shorenti_Grendyl.jpg https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/FAAS/Shorenti_Grendyl.jpg
+STRT/Shorenti_Kintana.jpg https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/FAAS/Shorenti_Kintana.jpg
+STRT/Shorenti_Surprise.jpg https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/FAAS/Shorenti_Surprise.jpg
+STRT/Shorenti_Wellspring.jpg https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/FAAS/Shorenti_Wellspring.jpg
+STRT/Solon_The_Blustermage.jpg https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/FAAS/Solon_The_Blustermage.jpg
+STRT/Somethin_Aint_Right.jpg https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/FAAS/Somethin_Aint_Right.jpg
+STRT/Utter_Defeat.jpg https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/FAAS/Utter_Defeat.jpg
+STRT/Youre_Coming_With_Me.jpg https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/FAAS/Youre_Coming_With_Me.jpg
