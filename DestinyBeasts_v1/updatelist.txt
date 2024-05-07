@@ -13,11 +13,11 @@ plugins/DestinyBeastsTCG/images/Phase6.jpg https://destinybeaststcg.github.io/As
 
 plugins/DestinyBeastsTCG/sets/carddata.txt https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/carddata.txt 919760
 
+plugins/DestinyBeastsTCG/decks/Blustermage_Deck.dek https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/decks/Blustermage_Deck.dek 977427
+plugins/DestinyBeastsTCG/decks/Shorenti_Deck.dek https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/decks/Shorenti_Deck.dek 956580
+
 plugins/DestinyBeastsTCG/sets/setimages/general/cardback.jpg https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/general/cardback.jpg -31525
 plugins/DestinyBeastsTCG/sets/setimages/general/spawned.jpg https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/general/spawned.jpg -48600
-
-plugins/DestinyBeastsTCG/decks/Blustermage_Deck.dek https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/decks/Blustermage_Deck.dek 
-plugins/DestinyBeastsTCG/decks/Shorenti_Deck.dek https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/decks/Shorenti_Deck.dek 
 
 CardURLFiles:
 CardImageURLs1.txt
