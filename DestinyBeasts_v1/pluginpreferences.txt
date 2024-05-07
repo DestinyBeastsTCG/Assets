@@ -67,7 +67,7 @@
 <bindingcanned11>CTRL+EQUALS</bindingcanned11>
 <bindingcanned12>CTRL+LEFTBRACKET</bindingcanned12>
 <bindingcanned13>CTRL+RIGHTBRACKET</bindingcanned13>
-<recentformat>1</recentformat>
+<deckeditorloadtozoneiscollapse>0</deckeditorloadtozoneiscollapse>
 <scalefactor>1.750000</scalefactor>
 <zoomfactor>1.000000</zoomfactor>
 <quickzoom>4.000000</quickzoom>

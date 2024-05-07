@@ -1,3 +1,4 @@
+CardImageURLs
 REF0/Afflictions https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/REF0/Afflictions.jpg
 REF0/Empowerments https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/REF0/Empowerments.jpg
 REF0/Opponent_Points_Card https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/REF0/Opponent_Points_Card.jpg
