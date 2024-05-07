@@ -2,6 +2,7 @@ DestinyBeastsTCG	05-07-24
 
 plugins/DestinyBeastsTCG/uninstall.txt	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/uninstall.txt	33332
 plugins/DestinyBeastsTCG/plugininfo.txt	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/plugininfo.txt	382011
+plugins/DestinyBeastsTCG/version.txt	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/version.txt	27525
 plugins/DestinyBeastsTCG/formats.txt	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/formats.txt	16278
 plugins/DestinyBeastsTCG/pluginpreferences.txt	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/pluginpreferences.txt	263435
 plugins/DestinyBeastsTCG/images/Phase1.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/images/Phase1.jpg	-54933
