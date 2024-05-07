@@ -21,5 +21,5 @@ plugins/DestinyBeastsTCG/sets/setimages/general/spawned.jpg https://destinybeast
 
 CardURLFiles:
 CardImageURLs1.txt
-CardImageURLs_STRT.txt
-CardImageURLs_FAAS.txt
+CardImageURLs2.txt
+CardImageURLs3.txt
