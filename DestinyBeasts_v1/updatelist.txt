@@ -1,4 +1,4 @@
-DestinyBeastsTCG	05-05-24
+DestinyBeastsTCG	05-07-24
 
 plugins/DestinyBeastsTCG/plugininfo.txt	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/plugininfo.txt	405820
 plugins/DestinyBeastsTCG/formats.txt	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/formats.txt	16278
