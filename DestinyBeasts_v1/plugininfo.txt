@@ -41,11 +41,6 @@
 		<visibletoothers>yes</visibletoothers>
 	</gamezone>
 	<gamezone>
-		<label>Searched Cards</label>
-		<visibletoowner>yes</visibletoowner>
-		<visibletoothers>yes</visibletoothers>
-	</gamezone>
-		<gamezone>
 		<label>Removed from Play</label>
 		<visibletoowner>yes</visibletoowner>
 		<visibletoothers>yes</visibletoothers>
@@ -74,14 +69,8 @@
 		<label>Draw</label>
 	</phase>
 	<phase>
-		<label>Speed 3 Round</label>
+		<label>Play</label>
 	</phase>
-	<phase>
-		<label>Speed 2 Round</label>
-	</phase>
-	<phase>
-		<label>Speed 1 Round</label>
-	</phase>	
 	<phase>
 		<label>End</label>
 	</phase>	
