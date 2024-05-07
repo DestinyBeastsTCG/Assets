@@ -19,7 +19,7 @@ plugins/DestinyBeastsTCG/decks/Shorenti_Deck.dek	https://destinybeaststcg.github
 plugins/DestinyBeastsTCG/sets/setimages/general/cardback.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/general/cardback.jpg	-31525
 plugins/DestinyBeastsTCG/sets/setimages/general/spawned.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/general/spawned.jpg	-48600
 
-CardImageURLs
+CardImageURLs:
 REF0/Afflictions	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/REF0/Afflictions.jpg	0
 REF0/Empowerments	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/REF0/Empowerments.jpg	0
 REF0/Opponent_Points_Card	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/REF0/Opponent_Points_Card.jpg	0
