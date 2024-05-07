@@ -11,7 +11,7 @@ plugins/DestinyBeastsTCG/images/Phase4.jpg https://destinybeaststcg.github.io/As
 plugins/DestinyBeastsTCG/images/Phase5.jpg https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/images/Phase5.jpg -26190
 plugins/DestinyBeastsTCG/images/Phase6.jpg https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/images/Phase6.jpg -7368
 
-plugins/DestinyBeastsTCG/sets/carddata.txt https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/carddata.txt 919760
+plugins/DestinyBeastsTCG/sets/carddata.txt https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/carddata.txt 1219407
 
 plugins/DestinyBeastsTCG/decks/Blustermage_Deck.dek https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/decks/Blustermage_Deck.dek 977427
 plugins/DestinyBeastsTCG/decks/Shorenti_Deck.dek https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/decks/Shorenti_Deck.dek 956580
