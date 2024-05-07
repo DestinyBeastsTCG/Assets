@@ -68,9 +68,10 @@
 <bindingcanned12>CTRL+LEFTBRACKET</bindingcanned12>
 <bindingcanned13>CTRL+RIGHTBRACKET</bindingcanned13>
 <deckeditorloadtozoneiscollapse>0</deckeditorloadtozoneiscollapse>
-<scalefactor>1.750000</scalefactor>
+<scalefactor>1.500000</scalefactor>
 <zoomfactor>1.000000</zoomfactor>
 <quickzoom>4.000000</quickzoom>
 <prevtilt>35.000000</prevtilt>
+<isdownloadallmissing>1</isdownloadallmissing>
 
 </pluginpreferences>

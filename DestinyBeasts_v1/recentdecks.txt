@@ -1,0 +1,3 @@
+RECENTDECK0:Shorenti_Deck.dek
+RECENTDECK1:Blustermage_Deck.dek
+RECENTDECK2:Test1.dek
