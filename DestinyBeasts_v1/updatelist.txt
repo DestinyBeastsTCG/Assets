@@ -19,31 +19,31 @@ plugins/DestinyBeastsTCG/decks/Shorenti_Deck.dek	https://destinybeaststcg.github
 plugins/DestinyBeastsTCG/sets/setimages/general/cardback.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/general/cardback.jpg	-31525
 plugins/DestinyBeastsTCG/sets/setimages/general/spawned.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/general/spawned.jpg	-48600
 
-CardImageURLs:
-REF0/Afflictions	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/REF0/Afflictions.jpg	0
-REF0/Empowerments	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/REF0/Empowerments.jpg	0
-REF0/Opponent_Points_Card	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/REF0/Opponent_Points_Card.jpg	0
-REF0/You_Points_Card	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/REF0/You_Points_Card.jpg	0
+CardImageURLs
+REF0/Afflictions.jpg https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/REF0/Afflictions.jpg	0
+REF0/Empowerments.jpg 	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/REF0/Empowerments.jpg	0
+REF0/Opponent_Points_Card.jpg 	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/REF0/Opponent_Points_Card.jpg	0
+REF0/You_Points_Card.jpg 	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/REF0/You_Points_Card.jpg	0
 
-REF0/Affliction_Chilled	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/REF0/Affliction_Chilled.jpg	0
-REF0/Affliction_Entangled	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/REF0/Affliction_Entangled.jpg	0
-REF0/Affliction_Flooded	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/REF0/Affliction_Flooded.jpg	0
-REF0/Affliction_Infected	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/REF0/Affliction_Infected.jpg	0
-REF0/Affliction_Shattered	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/REF0/Affliction_Shattered.jpg	0
-REF0/Affliction_Shocked	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/REF0/Affliction_Shocked.jpg	0
-REF0/Affliction_Singed	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/REF0/Affliction_Singed.jpg	0
-REF0/Affliction_Winded	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/REF0/Affliction_Winded.jpg	0
+REF0/Affliction_Chilled.jpg 	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/REF0/Affliction_Chilled.jpg	0
+REF0/Affliction_Entangled.jpg 	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/REF0/Affliction_Entangled.jpg	0
+REF0/Affliction_Flooded.jpg 	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/REF0/Affliction_Flooded.jpg	0
+REF0/Affliction_Infected.jpg 	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/REF0/Affliction_Infected.jpg	0
+REF0/Affliction_Shattered.jpg 	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/REF0/Affliction_Shattered.jpg	0
+REF0/Affliction_Shocked.jpg 	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/REF0/Affliction_Shocked.jpg	0
+REF0/Affliction_Singed.jpg 	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/REF0/Affliction_Singed.jpg	0
+REF0/Affliction_Winded.jpg 	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/REF0/Affliction_Winded.jpg	0
 
-REF0/Empowerment_Erratic	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/REF0/Empowerment_Erratic.jpg	0
-REF0/Empowerment_FateGuard	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/REF0/Empowerment_FateGuard.jpg	0
-REF0/Empowerment_Frugal	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/REF0/Empowerment_Frugal.jpg	0
-REF0/Empowerment_Invigorated	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/REF0/Empowerment_Invigorated.jpg	0
-REF0/Empowerment_Irresistible	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/REF0/Empowerment_Irresistible.jpg	0
-REF0/Empowerment_Quickened	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/REF0/Empowerment_Quickened.jpg	0
-REF0/Empowerment_Rejuvenated	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/REF0/Empowerment_Rejuvenated.jpg	0
-REF0/Empowerment_Safeguarded	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/REF0/Empowerment_Safeguarded.jpg	0
-REF0/Empowerment_Unbreaking	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/REF0/Empowerment_Unbreaking.jpg	0
-REF0/Empowerment_Unstoppable	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/REF0/Empowerment_Unstoppable.jpg	0
+REF0/Empowerment_Erratic.jpg 	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/REF0/Empowerment_Erratic.jpg	0
+REF0/Empowerment_FateGuard.jpg 	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/REF0/Empowerment_FateGuard.jpg	0
+REF0/Empowerment_Frugal.jpg 	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/REF0/Empowerment_Frugal.jpg	0
+REF0/Empowerment_Invigorated.jpg 	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/REF0/Empowerment_Invigorated.jpg	0
+REF0/Empowerment_Irresistible.jpg 	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/REF0/Empowerment_Irresistible.jpg	0
+REF0/Empowerment_Quickened.jpg 	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/REF0/Empowerment_Quickened.jpg	0
+REF0/Empowerment_Rejuvenated.jpg 	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/REF0/Empowerment_Rejuvenated.jpg	0
+REF0/Empowerment_Safeguarded.jpg 	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/REF0/Empowerment_Safeguarded.jpg	0
+REF0/Empowerment_Unbreaking.jpg 	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/REF0/Empowerment_Unbreaking.jpg	0
+REF0/Empowerment_Unstoppable.jpg 	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/REF0/Empowerment_Unstoppable.jpg	0
 
 STRT/A_Friend_in_Need.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/STRT/A_Friend_in_Need.jpg	0
 STRT/Artifact_of_Awakening.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/STRT/Artifact_of_Awakening.jpg	0
