@@ -19,6 +19,7 @@ plugins/DestinyBeastsTCG/decks/Shorenti_Deck.dek https://destinybeaststcg.github
 plugins/DestinyBeastsTCG/sets/setimages/general/cardback.jpg https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/general/cardback.jpg -31525
 plugins/DestinyBeastsTCG/sets/setimages/general/spawned.jpg https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/general/spawned.jpg -48600
 
+CardImageURLs
 CardURLFiles:
 CardImageURLs1.txt
 CardImageURLs2.txt
