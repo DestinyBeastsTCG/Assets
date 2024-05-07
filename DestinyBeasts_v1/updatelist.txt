@@ -1,4 +1,4 @@
-DestinyBeastsTCG	05-05-24
+DestinyBeastsTCG	05-07-24
 
 plugins/DestinyBeastsTCG/plugininfo.txt https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/plugininfo.txt 430820
 plugins/DestinyBeastsTCG/formats.txt https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/formats.txt 14999
@@ -20,6 +20,7 @@ plugins/DestinyBeastsTCG/sets/setimages/general/cardback.jpg https://destinybeas
 plugins/DestinyBeastsTCG/sets/setimages/general/spawned.jpg https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/general/spawned.jpg -48600
 
 CardImageURLs
+
 CardURLFiles:
 CardImageURLs1.txt
 CardImageURLs2.txt
