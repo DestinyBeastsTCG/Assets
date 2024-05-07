@@ -52,6 +52,7 @@ STRT/GWEN.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/se
 STRT/Myx_Up.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/STRT/Myx_Up.jpg
 STRT/Nelly.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/STRT/Nelly.jpg
 STRT/Noms.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/STRT/Noms.jpg
+STRT/Ready_Set_Go.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/STRT/Ready_Set_Go.jpg
 STRT/Pink_Slipped.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/STRT/Pink_Slipped.jpg
 STRT/Return_Of_An_Ally.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/STRT/Return_Of_An_Ally.jpg
 STRT/Sugaran.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/STRT/Sugaran.jpg
@@ -60,7 +61,7 @@ FAAS/Ardinlac_The_Blustermage.jpg	https://destinybeaststcg.github.io/Assets/Dest
 FAAS/Ate_The_Blustermage.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/FAAS/Ate_The_Blustermage.jpg
 FAAS/Blustermage_Cloak_Ceremony.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/FAAS/Blustermage_Cloak_Ceremony.jpg
 FAAS/Blustermage_Nesting.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/FAAS/Blustermage_Nesting.jpg
-FAAS/Blustermage_Olive_Branch	Blustermage_Olive_Branch_s.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/FAAS/Blustermage_Olive_Branch.jpg
+FAAS/Blustermage_Olive_Branch	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/FAAS/Blustermage_Olive_Branch.jpg
 FAAS/Cawma_The_Blustermage.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/FAAS/Cawma_The_Blustermage.jpg
 FAAS/Cecili_The_Blustermage.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/FAAS/Cecili_The_Blustermage.jpg
 FAAS/Grand_Blustermage_Library.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/FAAS/Grand_Blustermage_Library.jpg
