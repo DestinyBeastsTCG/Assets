@@ -1,6 +1,6 @@
 Name	Set	ImageFile	Sound	Number	Type	Class	Fate	HP	Attack	Speed	KO/Capture Reward	Capture Cost	Free Ability/Effect	Cost Ability/Effect
 Welcome to The Fray	STRT	Welcome_to_The_Fray	Welcome_to_The_Fray_s	001	Catalyst	Standard	Unbound	-	-	-	-	-	All players reveal the top 3 cards of their decks, faceup. Then, each player selects one Beast Card from among them and adds it to their hand. The remaining cards are shuffled into their respective players decks.	(3) All players may add any 1 additional card from among the revealed cards to their hand.
-Return of an Ally	STRT	Return_of_an_Ally	Return_of_an_Ally_s	002	Catalyst	Hyper	Unbound	-	-	-	-	-	Conjure a Beast from your discard pile. This doesn’t count towards your conjure limit for the turn.	(5) The conjured Beast enters the battlefield both ERRATIC and REJUVENATED and remains that way until the start of your next turn.
+Return of an Ally	STRT	Return_Of_An_Ally	Return_Of_An_Ally_s	002	Catalyst	Hyper	Unbound	-	-	-	-	-	Conjure a Beast from your discard pile. This doesn’t count towards your conjure limit for the turn.	(5) The conjured Beast enters the battlefield both ERRATIC and REJUVENATED and remains that way until the start of your next turn.
 A Painful Reflection	STRT	A_Painful_Reflection	A_Painful_Reflection_s	003	Catalyst	Standard	Unbound	-	-	-	-	-	Select a Beast you own currently affected by an Affliction; give that same affliction to an enemy beast.	(3) Remove any Affliction from that selected Beast you own.
 What Goes Around...	STRT	What_Goes_Around	What_Goes_Around_s	004	Catalyst	Hyper	Unbound	-	-	-	-	-	If a Beast you own becomes KO’d, select a Beast your opponent owns with a KO Value less than or equal to that KO’d Beast; send that selected Beast to the Discard Pile. (You do not gain soul points from this effect).	(3) Add the beast you own that was KO’d from your discard pile to your hand.
 Pink Slipped	STRT	Pink_Slipped	Pink_Slipped_s	005	Catalyst	Hyper	Unbound	-	-	-	-	-	Select a Beast; remove that selected Beast from the game for 3 turns. This turn is considered turn 1.	(3) When that selected beast returns, they become FLOODED.
@@ -73,6 +73,34 @@ Instant Treatment	STRT	Instant_Treatment	Instant_Treatment_s	071	Catalyst	Hyper	
 The Hollowed Portrait	STRT	The_Hollowed_Portrait	The_Hollowed_Portrait_s	072	Catalyst	Flag	Unbound	-	-	-	30	-
 
 Mirage Kitten Token	STRT	Mirage_Kitten_Token	Mirage_Kitten_Token_s	073	Token	Beast Token	-	50	50	1	-	-	-
+
+Ardinlac The Blustermage	FAAS	Ardinlac_The_Blustermage	Ardinlac_The_Blustermage_s
+Ate The Blustermage	FAAS	Ate_The_Blustermage	Ate_The_Blustermage_s
+Blustermage Cloak Ceremony	FAAS	Blustermage_Cloak_Ceremony	Blustermage_Cloak_Ceremony_s
+Blustermage Nesting	FAAS	Blustermage_Nesting	Blustermage_Nesting_s
+Blustermage Olive Branch	FAAS	Blustermage_Olive_Branch	Blustermage_Olive_Branch_s
+Cawma The Blustermage	FAAS	Cawma_The_Blustermage	Cawma_The_Blustermage_s
+Cecili The Blustermage	FAAS	Cecili_The_Blustermage	Cecili_The_Blustermage_s
+Grand Blustermage Library	FAAS	Grand_Blustermage_Library	Grand_Blustermage_Library_s
+Kenja The Blustermage	FAAS	Kenja_The_Blustermage	Kenja_The_Blustermage_s
+Quetzalli The Blustermage	FAAS	Quetzalli_The_Blustermage	Quetzalli_The_Blustermage_s
+Ramona The Blustermage	FAAS	Ramona_The_Blustermage	Ramona_The_Blustermage_s
+Shorenti Accumulation	FAAS	Shorenti_Accumulation	Shorenti_Accumulation_s
+Shorenti Awakening	FAAS	Shorenti_Awakening	Shorenti_Awakening_s
+Shorenti Chalcedonyus	FAAS	Shorenti_Chalcedonyus	Shorenti_Chalcedonyus_s
+Shorenti Chordy	FAAS	Shorenti_Chordy	Shorenti_Chordy_s
+Shorenti Crysadillo	FAAS	Shorenti_Crysadillo	Shorenti_Crysadillo_s
+Shorenti Gem Offering	FAAS	Shorenti_Gem_Offering	Shorenti_Gem_Offering_s
+Shorenti Gembug	FAAS	Shorenti_Gembug	Shorenti_Gembug_s
+Shorenti Gempaca	FAAS	Shorenti_Gempaca	Shorenti_Gempaca_s
+Shorenti Grendyl	FAAS	Shorenti_Grendyl	Shorenti_Grendyl_s
+Shorenti Kintana	FAAS	Shorenti_Kintana	Shorenti_Kintana_s
+Shorenti Surprise	FAAS	Shorenti_Surprise	Shorenti_Surprise_s
+Shorenti Wellspring	FAAS	Shorenti_Wellspring	Shorenti_Wellspring_s
+Solon The Blustermage	FAAS	Solon_The_Blustermage	Solon_The_Blustermage_s
+Somethin' Ain't Right	FAAS	Somethin_Aint_Right	Somethin_Aint_Right_s
+Utter Defeat	FAAS	Utter_Defeat	Utter_Defeat_s
+You're Coming With Me	FAAS	Youre_Coming_With_Me	Youre_Coming_With_Me_s
 
 Afflictions	REF0	Afflictions		001	Reference	Afflictions	-	-	-	-	-	-
 Empowerments	REF0	Empowerments		002	Reference	Empowerments	-	-	-	-	-	-
