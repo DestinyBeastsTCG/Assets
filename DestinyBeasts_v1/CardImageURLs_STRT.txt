@@ -1,0 +1,8 @@
+STRT/A_Friend_in_Need.jpg https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/STRT/A_Friend_in_Need.jpg
+STRT/Artifact_of_Awakening.jpg https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/STRT/Artifact_of_Awakening.jpg
+STRT/Fearline.jpg https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/STRT/Fearline.jpg
+STRT/GWEN.jpg https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/STRT/GWEN.jpg
+STRT/Myx_Up.jpg https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/STRT/Myx_Up.jpg
+STRT/Nelly.jpg https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/STRT/Nelly.jpg
+STRT/Noms.jpg https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/STRT/Noms.jpg
+STRT/Sugaran.jpg https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/STRT/Sugaran.jpg

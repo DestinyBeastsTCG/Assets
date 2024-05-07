@@ -3,6 +3,7 @@
 <format>
      <label>Playable Cards</label>
      <set>STRT</set>
+	 <set>FAAS</set>
 </format>
 <format>
 	<label>References</label>

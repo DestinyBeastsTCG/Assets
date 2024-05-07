@@ -1,8 +1,10 @@
 <pluginpreferences>
 
+<lastversionupdate>240507</lastversionupdate>
 <counterstyleimagesizetextoverimage>15</counterstyleimagesizetextoverimage>
 <counterstyleimagesizeimagesonly>25</counterstyleimagesizeimagesonly>
 <recentskins>default</recentskins>
+<recenttablebackgrounds>DestinyBeasts_FieldLayout.jpg</recenttablebackgrounds>
 <recenttablebackgrounds>feltbackground.jpg</recenttablebackgrounds>
 <recenttablebackgrounds>3.jpg</recenttablebackgrounds>
 <recenttablebackgrounds>wood1.jpg</recenttablebackgrounds>
@@ -10,13 +12,11 @@
 <recentzonebackgrounds>novabackground.jpg</recentzonebackgrounds>
 <recentzonebackgrounds>2.jpg</recentzonebackgrounds>
 <canned>/ccr+50</canned>
-<canned>/ccr+100</canned>
 <canned>/ccr-50</canned>
-<canned>/ccr-100</canned>
 <canned>/ccg+50</canned>
-<canned>/ccg+100</canned>
 <canned>/ccg-50</canned>
-<canned>/ccg-100</canned>
+<canned>/ccw+50</canned>
+<canned>/ccw-50</canned>
 <canned>/cci+3</canned>
 <canned>/cci+5</canned>
 <canned>/cci+7</canned>
@@ -25,6 +25,8 @@
 <canned>/cci-1</canned>
 <canned>/cci-3</canned>
 <canned>/cci-5</canned>
+<canned>Hello World</canned>
+<canned>Hello World</canned>
 <canned>Hello World</canned>
 <canned>Hello World</canned>
 <canned>Hello World</canned>
@@ -51,7 +53,6 @@
 <bindingmain15>CTRL+SHIFT+s</bindingmain15>
 <bindinggeneral0>CTRL+d</bindinggeneral0>
 <bindinggeneral1>CTRL+RIGHT</bindinggeneral1>
-<bindingcard0>CTRL+EQUALS</bindingcard0>
 <bindingcanned0>CTRL+1</bindingcanned0>
 <bindingcanned1>CTRL+2</bindingcanned1>
 <bindingcanned2>CTRL+3</bindingcanned2>
@@ -61,6 +62,11 @@
 <bindingcanned6>CTRL+7</bindingcanned6>
 <bindingcanned7>CTRL+8</bindingcanned7>
 <bindingcanned8>CTRL+9</bindingcanned8>
+<bindingcanned9>CTRL+0</bindingcanned9>
+<bindingcanned10>CTRL+MINUS</bindingcanned10>
+<bindingcanned11>CTRL+EQUALS</bindingcanned11>
+<bindingcanned12>CTRL+LEFTBRACKET</bindingcanned12>
+<bindingcanned13>CTRL+RIGHTBRACKET</bindingcanned13>
 <recentformat>1</recentformat>
 <scalefactor>1.750000</scalefactor>
 <zoomfactor>1.000000</zoomfactor>

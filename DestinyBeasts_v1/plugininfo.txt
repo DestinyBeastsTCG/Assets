@@ -41,6 +41,16 @@
 		<visibletoothers>yes</visibletoothers>
 	</gamezone>
 	<gamezone>
+		<label>Searched Cards</label>
+		<visibletoowner>yes</visibletoowner>
+		<visibletoothers>yes</visibletoothers>
+	</gamezone>
+		<gamezone>
+		<label>Removed from Play</label>
+		<visibletoowner>yes</visibletoowner>
+		<visibletoothers>yes</visibletoothers>
+	</gamezone>
+	<gamezone>
 		<label>Afflictions</label>
 		<visibletoowner>yes</visibletoowner>
 		<visibletoothers>yes</visibletoothers>
@@ -116,30 +126,29 @@
 	</cardfunction>
 	
 	<cardfunction>
-		<label>Add 1 Affliction Counter</label>
-		<color>white</color>
-		<textoverimagecolor>FFDB58</textoverimagecolor>
-		<kind>ADDCOUNTER</kind>
-		<PositionX>1</PositionX>
-		<PositionY>.3</PositionY>
-	</cardfunction>
-	<cardfunction>
-		<label>Remove 1 Affliction Counter</label>
-		<kind>REMOVECOUNTER</kind>
-		<color>white</color>
-	</cardfunction>
-	
-	<cardfunction>
 		<label>Add 1 Cooldown Counter</label>
 		<color>blue</color>
 		<kind>ADDCOUNTER</kind>
-		<PositionX>0</PositionX>
-		<PositionY>.3</PositionY>
+		<PositionX>1</PositionX>
+		<PositionY>.25</PositionY>
 	</cardfunction>
 	<cardfunction>
 		<label>Remove 1 Cooldown Counter</label>
 		<kind>REMOVECOUNTER</kind>
 		<color>blue</color>
+	</cardfunction>
+	
+	<cardfunction>
+		<label>Add 1 Speed Override</label>
+		<color>yellow</color>
+		<kind>ADDCOUNTER</kind>
+		<PositionX>0</PositionX>
+		<PositionY>.5</PositionY>
+	</cardfunction>
+	<cardfunction>
+		<label>Remove 1 Speed Override</label>
+		<kind>REMOVECOUNTER</kind>
+		<color>yellow</color>
 	</cardfunction>
 	
 	<cardfunction>
@@ -155,21 +164,7 @@
 		<kind>REMOVECOUNTER</kind>
 		<color>black</color>
 	</cardfunction>
-	
-	<cardfunction>
-		<label>Add 1 Empowerment Counter</label>
-		<color>violet</color>
-		<textoverimagecolor>FFFFFF</textoverimagecolor>
-		<kind>ADDCOUNTER</kind>
-		<PositionX>.5</PositionX>
-		<PositionY>0</PositionY>
-	</cardfunction>
-	<cardfunction>
-		<label>Remove 1 Empowerment Counter</label>
-		<kind>REMOVECOUNTER</kind>
-		<color>violet</color>
-	</cardfunction>
-	
+
 	<cardfunction>
 		<label>Add 1 Soul Point</label>
 		<color>indigo</color>
@@ -181,19 +176,6 @@
 		<label>Remove 1 Soul Point</label>
 		<kind>REMOVECOUNTER</kind>
 		<color>indigo</color>
-	</cardfunction>
-	
-	<cardfunction>
-		<label>Add 1 Speed Override</label>
-		<color>yellow</color>
-		<kind>ADDCOUNTER</kind>
-		<PositionX>1</PositionX>
-		<PositionY>.7</PositionY>
-	</cardfunction>
-	<cardfunction>
-		<label>Remove 1 Speed Override</label>
-		<kind>REMOVECOUNTER</kind>
-		<color>yellow</color>
 	</cardfunction>
 
 	<cardfunction>
@@ -208,7 +190,6 @@
 	<cardfunction>
 		<label>Add Damage</label>
 		<color>red</color>
-		<textoverimagecolor>FFDB58</textoverimagecolor>
 		<kind>ADDCOUNTER</kind>
 		<PositionX>.5</PositionX>
 		<PositionY>1</PositionY>
@@ -216,13 +197,20 @@
 	<cardfunction>
 		<label>Add Temporary Health</label>
 		<color>green</color>
-		<textoverimagecolor>FFFFFF</textoverimagecolor>
 		<kind>ADDCOUNTER</kind>
 		<PositionX>0</PositionX>
-		<PositionY>.7</PositionY>
+		<PositionY>.75</PositionY>
 	</cardfunction>
 
+	<cardfunction>
+		<label>Add Attack Override</label>
+		<color>white</color>
+		<kind>ADDCOUNTER</kind>
+		<PositionX>0</PositionX>
+		<PositionY>.25</PositionY>
+	</cardfunction>
 
+	
 	
 //Other Definitions
 
@@ -233,5 +221,9 @@
 		<kind>TABLEITEMSCALE</kind>
 		<value>175</value>
 	</definition>
-
+	<definition>
+		<kind>GRIDSIZE</kind>
+		<value>.04</value>
+	</definition>
+	
 </plugin>
