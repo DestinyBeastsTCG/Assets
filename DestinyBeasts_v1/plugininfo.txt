@@ -66,9 +66,6 @@
 		<label>Start</label>
 	</phase>
 	<phase>
-		<label>Draw</label>
-	</phase>
-	<phase>
 		<label>Play</label>
 	</phase>
 	<phase>
