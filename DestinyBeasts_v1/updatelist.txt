@@ -34,6 +34,7 @@ REF0/Affliction_Winded.jpg 	https://destinybeaststcg.github.io/Assets/DestinyBea
 
 REF0/Empowerment_Erratic.jpg 	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/REF0/Empowerment_Erratic.jpg
 REF0/Empowerment_FateGuard.jpg 	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/REF0/Empowerment_FateGuard.jpg
+REF0/Empowerment_Fortified.jpg 	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/REF0/Empowerment_Fortified.jpg
 REF0/Empowerment_Frugal.jpg 	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/REF0/Empowerment_Frugal.jpg
 REF0/Empowerment_Invigorated.jpg 	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/REF0/Empowerment_Invigorated.jpg
 REF0/Empowerment_Irresistible.jpg 	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/REF0/Empowerment_Irresistible.jpg
