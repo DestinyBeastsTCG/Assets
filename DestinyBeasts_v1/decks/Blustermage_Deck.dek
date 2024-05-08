@@ -137,6 +137,11 @@
 		<card><name id="Empowerment_Unstoppable">Unstoppable</name><set>REF0</set></card>
 		<card><name id="Empowerment_Unstoppable">Unstoppable</name><set>REF0</set></card>
 		<card><name id="Empowerment_Unstoppable">Unstoppable</name><set>REF0</set></card>
+		<card><name id="Empowerment_Fortified">Fortified</name><set>REF0</set></card>
+		<card><name id="Empowerment_Fortified">Fortified</name><set>REF0</set></card>
+		<card><name id="Empowerment_Fortified">Fortified</name><set>REF0</set></card>
+		<card><name id="Empowerment_Fortified">Fortified</name><set>REF0</set></card>
+		<card><name id="Empowerment_Fortified">Fortified</name><set>REF0</set></card>
 	</superzone>
 	<superzone name="Reference Cards">
 		<card><name id="Afflictions">Afflictions</name><set>REF0</set></card>
