@@ -72,7 +72,7 @@ A Small Loan	STRT	A_Small_Loan	A_Small_Loan_s	070	Catalyst	Standard	Unbound	-	-	
 Instant Treatment	STRT	Instant_Treatment	Instant_Treatment_s	071	Catalyst	Hyper	Unbound	-	-	-	-	-
 The Hollowed Portrait	STRT	The_Hollowed_Portrait	The_Hollowed_Portrait_s	072	Catalyst	Flag	Unbound	-	-	-	30	-
 
-Mirage Kitten Token	STRT	Mirage_Kitten_Token	Mirage_Kitten_Token_s	073	Token	Beast Token	-	50	50	1	-	-	-
+Mirage Kitten Token	STRT	Mirage_Kitten_Token	Mirage_Kitten_Token_s	073	Token	Beast Token	Blaze	50	50	1	-	-	-
 
 Ardinlac The Blustermage	FAAS	Ardinlac_The_Blustermage	Ardinlac_The_Blustermage_s
 Ate The Blustermage	FAAS	Ate_The_Blustermage	Ate_The_Blustermage_s
@@ -126,3 +126,4 @@ Rejuvenated	REF0	Empowerment_Rejuvenated		019	Empowerment	Rejuvenated	-	-	-	-	-	
 Safeguarded	REF0	Empowerment_Safeguarded		020	Empowerment	Safeguarded	-	-	-	-	-	-
 Unbreaking	REF0	Empowerment_Unbreaking		021	Empowerment	Unbreaking	-	-	-	-	-	-
 Unstoppable	REF0	Empowerment_Unstoppable		022	Empowerment	Unstoppable	-	-	-	-	-	-
+Fortified	REF0	Empowerment_Fortified		022	Empowerment	Fortified	-	-	-	-	-	-
