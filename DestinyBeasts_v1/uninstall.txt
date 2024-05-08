@@ -1,5 +1,5 @@
 <uninstall>
-	<dateYYMMDD>240507</dateYYMMDD>
+	<dateYYMMDD>240509</dateYYMMDD>
 	<removepath>sets/setimages/STRT/</removepath>
 	<removepath>images/Phase1.jpg</removepath>
 	<removepath>images/Phase2.jpg</removepath>
@@ -7,4 +7,6 @@
 	<removepath>images/Phase4.jpg</removepath>
 	<removepath>images/Phase5.jpg</removepath>
 	<removepath>images/Phase6.jpg</removepath>
+	<removepath>decks/Blustermage_Deck.dek</removepath>
+	<removepath>decks/Shorenti_Deck.dek</removepath>
 </uninstall>
