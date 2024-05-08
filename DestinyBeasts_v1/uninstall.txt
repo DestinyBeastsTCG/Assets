@@ -7,6 +7,4 @@
 	<removepath>images/Phase4.jpg</removepath>
 	<removepath>images/Phase5.jpg</removepath>
 	<removepath>images/Phase6.jpg</removepath>
-	<removepath>decks/Blustermage_Deck.dek</removepath>
-	<removepath>decks/Shorenti_Deck.dek</removepath>
 </uninstall>
