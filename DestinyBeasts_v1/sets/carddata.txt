@@ -8,8 +8,8 @@ Sugaran	STRT	Sugaran	Sugaran_s	006	Beast	Mender	Blaze	300	100	3	7	-	Select a Bea
 Erwin	STRT	Erwin	Erwin_s	007	Beast	Runner	Land	500	50	1	7	-	Have this Beast lose 100 HP. This turn, any attempt to capture a flag catalyst with this Beast cannot fail.	(5) If this Beast currently has 200 or less HP and there is a Runner in your Discard Pile; you can KO this beast and conjure that Runner to your side of the field. That beast’s attempt(s) to capture flag catalyst cards this turn cannot fail.
 Break it Down!	STRT	Break_it_Down	Break_it_Down_s	008	Catalyst	Standard	Unbound	-	-	-	-	-	Remove all Empowerments & Afflictions from Beasts currently on the field.	(5) All Beasts on the field have their health fully restored.
 A Friend in Need	STRT	A_Friend_in_Need	A_Friend_in_Need_s	009	Catalyst	Standard	Unbound	-	-	-	-	-	Add one Beast Card from your deck to your hand.	(5) Conjure that beast to your side of the field. This does not contribute towards your conjure limit for the turn.
-Toxebred of Sha'Rune	STRT	Toxebred_of_ShaRune	Toxebred_of_ShaRune_s	010	Beast	Warden	Toxic	500	100	1	7	-	Select a Beast; that selected Beast becomes QUICKENED. This effect can be compounded.	(5) HYPER: Beasts with a lower speed than the Beast you own with the highest speed cannot attack or attempt to capture Flag Catalysts until the start of your next turn.
-Axi-Tol of Sha'Rune	STRT	AxiTol_of_ShaRune	AxiTol_of_ShaRune_s	011	Beast	Brawler	Frost	300	200	3	5	-	Select a Beast; that selected Beast becomes ERRATIC until the start of your next turn.	(5) Deal 300 damage. If this ability is used on your opponent’s turn, it deals 600 damage instead.
+Toxebred of Sha'Rune	STRT	Toxebred_Of_ShaRune	Toxebred_Of_ShaRune_s	010	Beast	Warden	Toxic	500	100	1	7	-	Select a Beast; that selected Beast becomes QUICKENED. This effect can be compounded.	(5) HYPER: Beasts with a lower speed than the Beast you own with the highest speed cannot attack or attempt to capture Flag Catalysts until the start of your next turn.
+Axi-Tol of Sha'Rune	STRT	AxiTol_Of_ShaRune	AxiTol_Of_ShaRune_s	011	Beast	Brawler	Frost	300	200	3	5	-	Select a Beast; that selected Beast becomes ERRATIC until the start of your next turn.	(5) Deal 300 damage. If this ability is used on your opponent’s turn, it deals 600 damage instead.
 Charge-Kur-Goh	STRT	Charge_Kur_Goh	Charge_Kur_Goh_s	012	Beast	Runner	Charge	450	50	1	5	-	Attempt to capture an opponent’s Flag Catalyst. If the attempt fails, this Beast becomes QUICKENED. This effect can be compounded.	(5) If this Beast’s speed is 3, it’s attempts to capture Flag Catalysts cannot fail this turn.
 Wallra	STRT	Wallra	Wallra_s	013	Beast	Warden	Frost	600	50	2	5	-	Select a Beast; Until the start of your next turn, this Beast takes up to 400 damage that selected Beast would have taken.	(5) HYPER: When your opponent attempts to capture your Flag Catalyst, you can make that attempt fail and FORTIFY a Beast you own until the start of your next turn.
 Pileus	STRT	Pileus	Pileus_s	014	Beast	Warden	Sky	500	100	3	7	-	HYPER: If an opponent attempts to capture a Flag Catalyst, make that attempt fail and return this Beast to your hand.	(5) HYPER: If this beast is added to your hand by a Beast’s ability, all enemy Beasts lose 100 HP.
@@ -17,15 +17,15 @@ Croth the Creator	STRT	Croth_The_Creator	Croth_The_Creator_s	015	Beast	Runner	Fl
 Meeeech	STRT	Meeeech	Meeeech_s	016	Beast	Runner	Frost	300	200	3	3	-	Attempt to capture an opponent’s Flag Catalyst. If successful, all enemy Beasts become CHILLED.	(5) If this Beast Card is in your discard pile, you can conjure it to your field.
 Fiannafia	STRT	Fiannafia	Fiannafia_s	017	Beast	Brawler	Sky	300	300	2	7	-	Deal damage to a random enemy Beast equal to this beast’s attack.	(5) HYPER: This turn, enemy Beasts must select their allies for attacks and must attack if able. This move has a 2-turn cooldown.
 Dustee the Stoneslinger	STRT	Dustee_the_Stoneslinger	Dustee_the_Stoneslinger_s	018	Beast	Brawler	Land	300	50	2	5	-	HYPER: Other Beasts damaged by Dustee’s standard attack become SHATTERED. This ability activates after this Beast attacks.	(7) Deal 400 damage to all SHATTERED Beasts.
-Chapelle of Sha'Rune	STRT	Chapelle_of_ShaRune	Chapelle_of_ShaRune_s	019	Beast	Warden	Aqua	500	150	2	7	-	Select a Beast; that selected Beast becomes FATE GUARDED until the start of your next turn.	(5) Double the current HP of this Beast and all Beasts you own with FATE GUARD. (This may exceed the written limit on a card).
-Avalona of Sha'Rune	STRT	Avalona_of_ShaRune	Avalona_of_ShaRune_s	020	Beast	Runner	Aqua	300	100	2	3	-
-Bardragon of Sha'Rune	STRT	Bardragon_of_ShaRune	Bardragon_of_ShaRune_s	021	Beast	Mender	Flora	450	100	2	5	-
-Trilex of Sha'Rune	STRT	Trilex_of_ShaRune	Trilex_of_ShaRune_s	022	Beast	Brawler	Charge	300	200	2	5	-
-Gemtoe of Sha'Rune	STRT	Gemtoe_of_ShaRune	Gemtoe_of_ShaRune_s	023	Beast	Mender	Land	500	50	2	5	-
-Menes of Sha'Rune	STRT	Menes_of_ShaRune	Menes_of_ShaRune_s	024	Beast	Menace	Frost	300	100	3	3	-
-Praxes of Sha'Rune	STRT	Praxes_of_ShaRune	Praxes_of_ShaRune_s	025	Beast	Menace	Land	300	100	2	3	-
-/3-uZZ of Sha'Rune	STRT	Buzz_of_ShaRune	Buzz_of_ShaRune_s	026	Beast	Menace	Charge	300	100	2	3	-
-Barknimbus of Sha’Rune	STRT	Barknimbus_of_ShaRune	Barknimbus_of_ShaRune_s	027	Beast	Mender	Sky	450	50	2	5	-
+Chapelle of Sha'Rune	STRT	Chapelle_Of_ShaRune	Chapelle_Of_ShaRune_s	019	Beast	Warden	Aqua	500	150	2	7	-	Select a Beast; that selected Beast becomes FATE GUARDED until the start of your next turn.	(5) Double the current HP of this Beast and all Beasts you own with FATE GUARD. (This may exceed the written limit on a card).
+Avalona of Sha'Rune	STRT	Avalona_Of_ShaRune	Avalona_Of_ShaRune_s	020	Beast	Runner	Aqua	300	100	2	3	-
+Bardragon of Sha'Rune	STRT	Bardragon_Of_ShaRune	Bardragon_Of_ShaRune_s	021	Beast	Mender	Flora	450	100	2	5	-
+Trilex of Sha'Rune	STRT	Trilex_Of_ShaRune	Trilex_Of_ShaRune_s	022	Beast	Brawler	Charge	300	200	2	5	-
+Gemtoe of Sha'Rune	STRT	Gemtoe_Of_ShaRune	Gemtoe_Of_ShaRune_s	023	Beast	Mender	Land	500	50	2	5	-
+Menes of Sha'Rune	STRT	Menes_Of_ShaRune	Menes_Of_ShaRune_s	024	Beast	Menace	Frost	300	100	3	3	-
+Praxes of Sha'Rune	STRT	Praxes_Of_ShaRune	Praxes_Of_ShaRune_s	025	Beast	Menace	Land	300	100	2	3	-
+/3-uZZ of Sha'Rune	STRT	Buzz_Of_ShaRune	Buzz_Of_ShaRune_s	026	Beast	Menace	Charge	300	100	2	3	-
+Barknimbus of Sha’Rune	STRT	Barknimbus_Of_ShaRune	Barknimbus_Of_ShaRune_s	027	Beast	Mender	Sky	450	50	2	5	-
 Ziggy, the Mammagi	STRT	Ziggy_the_Mammagi	Ziggy_the_Mammagi_s	028	Beast	Menace	Sky	300	150	2	5	-
 Ringy, the Mammagi	STRT	Ringy_the_Mammagi	Ringy_the_Mammagi_s	029	Beast	Brawler	Blaze	300	150	2	5	-
 Tusky, the Mammagi	STRT	Tusky_the_Mammagi	Tusky_the_Mammagi_s	030	Beast	Menace	Aqua	300	150	2	5	-
@@ -35,21 +35,21 @@ Booey, the Mammagi	STRT	Booey_the_Mammagi	Booey_the_Mammagi_s	033	Beast	Warden	L
 Stinky, the Mammagi	STRT	Stinky_the_Mammagi	Stinky_the_Mammagi_s	034	Beast	Brawler	Toxic	300	150	2	5	-
 Stumpy, the Mammagi	STRT	Stumpy_the_Mammagi	Stumpy_the_Mammagi_s	035	Beast	Warden	Flora	300	150	2	5	-
 Tigris Sha'Man	STRT	Tigris_ShaMan	Tigris_ShaMan_s	036	Beast	Mender	Aqua	400	200	2	5	-
-Artifact of Awakening	STRT	Artifact_of_Awakening	Artifact_of_Awakening_s	037	Catalyst	Flag	Unbound	-	-	-	20	-
-Chalice of Undoing	STRT	Chalice_of_Undoing	Chalice_of_Undoing_s	038	Catalyst	Flag	Unbound	-	-	-	20	-
-Orb of Fortitude	STRT	Orb_of_Fortitude	Orb_of_Fortitude_s	039	Catalyst	Flag	Unbound	-	-	-	20	-
+Artifact of Awakening	STRT	Artifact_Of_Awakening	Artifact_Of_Awakening_s	037	Catalyst	Flag	Unbound	-	-	-	20	-
+Chalice of Undoing	STRT	Chalice_Of_Undoing	Chalice_Of_Undoing_s	038	Catalyst	Flag	Unbound	-	-	-	20	-
+Orb of Fortitude	STRT	Orb_Of_Fortitude	Orb_Of_Fortitude_s	039	Catalyst	Flag	Unbound	-	-	-	20	-
 Mammon	STRT	Mammon	Mammon_s	040	Beast	Runner	Blaze	300	100	3	7	-
 Velenia	STRT	Velenia	Velenia_s	041	Beast	Mender	Toxic	400	100	3	7	-
 Emberphant	STRT	Emberphant	Emberphant_s	042	Beast	Warden	Blaze	700	50	2	5	-
 Betticus	STRT	Betticus	Betticus_s	043	Beast	Brawler	Aqua	400	200	1	7	-
 Chelsea	STRT	Chelsea	Chelsea_s	044	Beast	Runner	Sky	400	50	1	5	-
 Cerasus	STRT	Cerasus	Cerasus_s	045	Beast	Menace	Flora	600	50	2	5	-
-Stone of Cursed Souls	STRT	Stone_of_Cursed_Souls	Stone_of_Cursed_Souls_s	046	Catalyst	Flag	Unbound	-	-	-	20	-
+Stone of Cursed Souls	STRT	Stone_Of_Cursed_Souls	Stone_Of_Cursed_Souls_s	046	Catalyst	Flag	Unbound	-	-	-	20	-
 Tragedy and Comedy	STRT	Tragedy_and_Comedy	Tragedy_and_Comedy_s	047	Catalyst	Flag	Unbound	-	-	-	20	-
 Healing Hibiscus	STRT	Healing_Hibiscus	Healing_Hibiscus_s	048	Catalyst	Flag	Unbound	-	-	-	10	-
-Heirloom of Guidance	STRT	Heirloom_of_Guidance	Heirloom_of_Guidance_s	049	Catalyst	Flag	Unbound	-	-	-	20	-
+Heirloom of Guidance	STRT	Heirloom_Of_Guidance	Heirloom_Of_Guidance_s	049	Catalyst	Flag	Unbound	-	-	-	20	-
 Artifact from the Depths	STRT	Artiface_from_the_Depths	Artiface_from_the_Depths_s	050	Catalyst	Flag	Unbound	-	-	-	10	-
-Song of the Trickster	STRT	Song_of_the_Trickster	Song_of_the_Trickster_s	051	Catalyst	Flag	Unbound	-	-	-	10	-
+Song of the Trickster	STRT	Song_Of_the_Trickster	Song_Of_the_Trickster_s	051	Catalyst	Flag	Unbound	-	-	-	10	-
 A Fateful Interaction	STRT	A_Fateful_Interaction	A_Fateful_Interaction_s	052	Catalyst	Standard	Unbound	-	-	-	-	-
 Ready, Set, Go!	STRT	Ready_Set_Go	Ready_Set_Go_s	053	Catalyst	Standard	Unbound	-	-	-	-	-
 You're Outta Here!	STRT	Youre_Outta_Here	Youre_Outta_Here_s	054	Catalyst	Hyper	Unbound	-	-	-	-	-
@@ -126,4 +126,4 @@ Rejuvenated	REF0	Empowerment_Rejuvenated		019	Empowerment	Rejuvenated	-	-	-	-	-	
 Safeguarded	REF0	Empowerment_Safeguarded		020	Empowerment	Safeguarded	-	-	-	-	-	-
 Unbreaking	REF0	Empowerment_Unbreaking		021	Empowerment	Unbreaking	-	-	-	-	-	-
 Unstoppable	REF0	Empowerment_Unstoppable		022	Empowerment	Unstoppable	-	-	-	-	-	-
-Fortified	REF0	Empowerment_Fortified		022	Empowerment	Fortified	-	-	-	-	-	-
+Fortified	REF0	Empowerment_Fortified		023	Empowerment	Fortified	-	-	-	-	-	-
