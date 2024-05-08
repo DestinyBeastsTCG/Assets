@@ -1,43 +1,43 @@
 Name	Set	ImageFile	Sound	Number	Type	Class	Fate	HP	Attack	Speed	KO/Capture Reward	Capture Cost	Free Ability/Effect	Cost Ability/Effect
-Welcome to The Fray	STRT	Welcome_to_The_Fray	Welcome_to_The_Fray_s	001	Catalyst	Standard	Unbound	-	-	-	-	-	All players reveal the top 3 cards of their decks, faceup. Then, each player selects one Beast Card from among them and adds it to their hand. The remaining cards are shuffled into their respective players decks.	(3) All players may add any 1 additional card from among the revealed cards to their hand.
-Return of an Ally	STRT	Return_Of_An_Ally	Return_Of_An_Ally_s	002	Catalyst	Hyper	Unbound	-	-	-	-	-	Conjure a Beast from your discard pile. This doesn’t count towards your conjure limit for the turn.	(5) The conjured Beast enters the battlefield both ERRATIC and REJUVENATED and remains that way until the start of your next turn.
-A Painful Reflection	STRT	A_Painful_Reflection	A_Painful_Reflection_s	003	Catalyst	Standard	Unbound	-	-	-	-	-	Select a Beast you own currently affected by an Affliction; give that same affliction to an enemy beast.	(3) Remove any Affliction from that selected Beast you own.
-What Goes Around...	STRT	What_Goes_Around	What_Goes_Around_s	004	Catalyst	Hyper	Unbound	-	-	-	-	-	If a Beast you own becomes KO’d, select a Beast your opponent owns with a KO Value less than or equal to that KO’d Beast; send that selected Beast to the Discard Pile. (You do not gain soul points from this effect).	(3) Add the beast you own that was KO’d from your discard pile to your hand.
+Welcome to The Fray	STRT	Welcome_to_The_Fray	Welcome_to_The_Fray_s	001	Catalyst	Standard	Unbound	-	-	-	-	-	All players reveal the top 3 cards of their decks, face-up. Then, each player selects one Beast Card from among them and adds it to their hand. The remaining cards are shuffled into their respective players decks.	(3) All players may add any 1 additional card from among the revealed cards to their hand.
+Return of an Ally	STRT	Return_Of_An_Ally	Return_Of_An_Ally_s	002	Catalyst	Hyper	Unbound	-	-	-	-	-	Conjure a Beast from your Discard Pile. This doesn’t count towards your conjure limit for the turn.	(3) The conjured Beast enters the battlefield both ERRATIC and REJUVENATED and remains that way until the start of your next turn.
+A Painful Reflection	STRT	A_Painful_Reflection	A_Painful_Reflection_s	003	Catalyst	Standard	Unbound	-	-	-	-	-	Select a Beast you control currently affected by an Affliction; give that same affliction to an enemy Beast.	(3) Remove any Affliction from that selected Beast you own.
+What Goes Around...	STRT	What_Goes_Around	What_Goes_Around_s	004	Catalyst	Hyper	Unbound	-	-	-	-	-	If a Beast you control becomes KO’d, select a Beast your opponent controls with a KO Value less than or equal to that KO’d Beast; send that selected Beast to the Discard Pile. (You do not gain soul points from this effect).	(3) Add the beast you own that was KO’d from your discard pile to your hand.
 Pink Slipped	STRT	Pink_Slipped	Pink_Slipped_s	005	Catalyst	Hyper	Unbound	-	-	-	-	-	Select a Beast; remove that selected Beast from the game for 3 turns. This turn is considered turn 1.	(3) When that selected beast returns, they become FLOODED.
-Sugaran	STRT	Sugaran	Sugaran_s	006	Beast	Mender	Blaze	300	100	3	7	-	Select a Beast you own; restore up to 200 of that beast’s HP. That Beast also becomes FATE GUARDED until the start of your next turn.	(3) HYPER: Select a Beast; that selected Beast becomes INVIGORATED and ERRATIC until the end of the turn.
-Erwin	STRT	Erwin	Erwin_s	007	Beast	Runner	Land	500	50	1	7	-	Have this Beast lose 100 HP. This turn, any attempt to capture a flag catalyst with this Beast cannot fail.	(5) If this Beast currently has 200 or less HP and there is a Runner in your Discard Pile; you can KO this beast and conjure that Runner to your side of the field. That beast’s attempt(s) to capture flag catalyst cards this turn cannot fail.
-Break it Down!	STRT	Break_it_Down	Break_it_Down_s	008	Catalyst	Standard	Unbound	-	-	-	-	-	Remove all Empowerments & Afflictions from Beasts currently on the field.	(5) All Beasts on the field have their health fully restored.
-A Friend in Need	STRT	A_Friend_in_Need	A_Friend_in_Need_s	009	Catalyst	Standard	Unbound	-	-	-	-	-	Add one Beast Card from your deck to your hand.	(5) Conjure that beast to your side of the field. This does not contribute towards your conjure limit for the turn.
-Toxebred of Sha'Rune	STRT	Toxebred_Of_ShaRune	Toxebred_Of_ShaRune_s	010	Beast	Warden	Toxic	500	100	1	7	-	Select a Beast; that selected Beast becomes QUICKENED. This effect can be compounded.	(5) HYPER: Beasts with a lower speed than the Beast you own with the highest speed cannot attack or attempt to capture Flag Catalysts until the start of your next turn.
-Axi-Tol of Sha'Rune	STRT	AxiTol_Of_ShaRune	AxiTol_Of_ShaRune_s	011	Beast	Brawler	Frost	300	200	3	5	-	Select a Beast; that selected Beast becomes ERRATIC until the start of your next turn.	(5) Deal 300 damage. If this ability is used on your opponent’s turn, it deals 600 damage instead.
-Charge-Kur-Goh	STRT	Charge_Kur_Goh	Charge_Kur_Goh_s	012	Beast	Runner	Charge	450	50	1	5	-	Attempt to capture an opponent’s Flag Catalyst. If the attempt fails, this Beast becomes QUICKENED. This effect can be compounded.	(5) If this Beast’s speed is 3, it’s attempts to capture Flag Catalysts cannot fail this turn.
-Wallra	STRT	Wallra	Wallra_s	013	Beast	Warden	Frost	600	50	2	5	-	Select a Beast; Until the start of your next turn, this Beast takes up to 400 damage that selected Beast would have taken.	(5) HYPER: When your opponent attempts to capture your Flag Catalyst, you can make that attempt fail and FORTIFY a Beast you own until the start of your next turn.
-Pileus	STRT	Pileus	Pileus_s	014	Beast	Warden	Sky	500	100	3	7	-	HYPER: If an opponent attempts to capture a Flag Catalyst, make that attempt fail and return this Beast to your hand.	(5) HYPER: If this beast is added to your hand by a Beast’s ability, all enemy Beasts lose 100 HP.
-Croth the Creator	STRT	Croth_The_Creator	Croth_The_Creator_s	015	Beast	Runner	Flora	400	100	1	3	-	Attempt to capture an opponent’s Flag Catalyst. If the attempt fails, enemy Beasts cannot attack until the start of your next turn.	(5) If your opponent did not attack on their last turn, this Beast can attempt to capture a Flag Catalyst for no cost this turn.
-Meeeech	STRT	Meeeech	Meeeech_s	016	Beast	Runner	Frost	300	200	3	3	-	Attempt to capture an opponent’s Flag Catalyst. If successful, all enemy Beasts become CHILLED.	(5) If this Beast Card is in your discard pile, you can conjure it to your field.
-Fiannafia	STRT	Fiannafia	Fiannafia_s	017	Beast	Brawler	Sky	300	300	2	7	-	Deal damage to a random enemy Beast equal to this beast’s attack.	(5) HYPER: This turn, enemy Beasts must select their allies for attacks and must attack if able. This move has a 2-turn cooldown.
-Dustee the Stoneslinger	STRT	Dustee_the_Stoneslinger	Dustee_the_Stoneslinger_s	018	Beast	Brawler	Land	300	50	2	5	-	HYPER: Other Beasts damaged by Dustee’s standard attack become SHATTERED. This ability activates after this Beast attacks.	(7) Deal 400 damage to all SHATTERED Beasts.
-Chapelle of Sha'Rune	STRT	Chapelle_Of_ShaRune	Chapelle_Of_ShaRune_s	019	Beast	Warden	Aqua	500	150	2	7	-	Select a Beast; that selected Beast becomes FATE GUARDED until the start of your next turn.	(5) Double the current HP of this Beast and all Beasts you own with FATE GUARD. (This may exceed the written limit on a card).
-Avalona of Sha'Rune	STRT	Avalona_Of_ShaRune	Avalona_Of_ShaRune_s	020	Beast	Runner	Aqua	300	100	2	3	-
-Bardragon of Sha'Rune	STRT	Bardragon_Of_ShaRune	Bardragon_Of_ShaRune_s	021	Beast	Mender	Flora	450	100	2	5	-
-Trilex of Sha'Rune	STRT	Trilex_Of_ShaRune	Trilex_Of_ShaRune_s	022	Beast	Brawler	Charge	300	200	2	5	-
-Gemtoe of Sha'Rune	STRT	Gemtoe_Of_ShaRune	Gemtoe_Of_ShaRune_s	023	Beast	Mender	Land	500	50	2	5	-
-Menes of Sha'Rune	STRT	Menes_Of_ShaRune	Menes_Of_ShaRune_s	024	Beast	Menace	Frost	300	100	3	3	-
-Praxes of Sha'Rune	STRT	Praxes_Of_ShaRune	Praxes_Of_ShaRune_s	025	Beast	Menace	Land	300	100	2	3	-
-/3-uZZ of Sha'Rune	STRT	Buzz_Of_ShaRune	Buzz_Of_ShaRune_s	026	Beast	Menace	Charge	300	100	2	3	-
-Barknimbus of Sha’Rune	STRT	Barknimbus_Of_ShaRune	Barknimbus_Of_ShaRune_s	027	Beast	Mender	Sky	450	50	2	5	-
-Ziggy, the Mammagi	STRT	Ziggy_the_Mammagi	Ziggy_the_Mammagi_s	028	Beast	Menace	Sky	300	150	2	5	-
-Ringy, the Mammagi	STRT	Ringy_the_Mammagi	Ringy_the_Mammagi_s	029	Beast	Brawler	Blaze	300	150	2	5	-
-Tusky, the Mammagi	STRT	Tusky_the_Mammagi	Tusky_the_Mammagi_s	030	Beast	Menace	Aqua	300	150	2	5	-
-Shaky, the Mammagi	STRT	Shaky_the_Mammagi	Shaky_the_Mammagi_s	031	Beast	Mender	Frost	300	150	2	5	-
-Oopsy, the Mammagi	STRT	Oopsy_the_Mammagi	Oopsy_the_Mammagi_s	032	Beast	Mender	Charge	300	150	2	5	-
-Booey, the Mammagi	STRT	Booey_the_Mammagi	Booey_the_Mammagi_s	033	Beast	Warden	Land	300	150	2	5	-
-Stinky, the Mammagi	STRT	Stinky_the_Mammagi	Stinky_the_Mammagi_s	034	Beast	Brawler	Toxic	300	150	2	5	-
-Stumpy, the Mammagi	STRT	Stumpy_the_Mammagi	Stumpy_the_Mammagi_s	035	Beast	Warden	Flora	300	150	2	5	-
-Tigris Sha'Man	STRT	Tigris_ShaMan	Tigris_ShaMan_s	036	Beast	Mender	Aqua	400	200	2	5	-
-Artifact of Awakening	STRT	Artifact_Of_Awakening	Artifact_Of_Awakening_s	037	Catalyst	Flag	Unbound	-	-	-	20	-
-Chalice of Undoing	STRT	Chalice_Of_Undoing	Chalice_Of_Undoing_s	038	Catalyst	Flag	Unbound	-	-	-	20	-
-Orb of Fortitude	STRT	Orb_Of_Fortitude	Orb_Of_Fortitude_s	039	Catalyst	Flag	Unbound	-	-	-	20	-
+Sugaran	STRT	Sugaran	Sugaran_s	006	Beast	Mender	Blaze	300	100	3	7	-	Select a Beast you control; restore up to 200 of that beast’s HP. That Beast also becomes FATE GUARDED until the start of your next turn.	(3) HYPER: Select a Beast; that selected Beast becomes INVIGORATED and ERRATIC until the end of the turn.
+Erwin	STRT	Erwin	Erwin_s	007	Beast	Runner	Land	500	50	1	7	-	Have this Beast lose 100 HP. This turn, any attempt to capture a flag catalyst with this Beast cannot fail.	(3) If this Beast currently has 200 or less HP and there is a Runner in your Discard Pile; you can KO this beast and conjure that Runner to your side of the field. That beast’s attempt(s) to capture flag catalyst cards this turn cannot fail.
+Break it Down!	STRT	Break_it_Down	Break_it_Down_s	008	Catalyst	Standard	Unbound	-	-	-	-	-	Remove all Empowerments & Afflictions from Beasts currently on the field.	(3) All Beasts on the field have their health fully restored.
+A Friend in Need	STRT	A_Friend_in_Need	A_Friend_in_Need_s	009	Catalyst	Standard	Unbound	-	-	-	-	-	Add one Beast Card from your deck to your hand.	(3) Conjure that beast to your side of the field. This does not contribute towards your conjure limit for the turn.
+Toxebred of Sha'Rune	STRT	Toxebred_Of_ShaRune	Toxebred_Of_ShaRune_s	010	Beast	Warden	Toxic	500	100	1	7	-	Select a Beast; that selected Beast becomes QUICKENED. This effect can be compounded.	(3) HYPER: Beasts with a lower speed than the Beast you own with the highest speed cannot attack or attempt to capture Flag Catalysts until the start of your next turn.
+Axi-Tol of Sha'Rune	STRT	AxiTol_Of_ShaRune	AxiTol_Of_ShaRune_s	011	Beast	Brawler	Frost	300	200	3	5	-	Select a Beast; that selected Beast becomes ERRATIC until the start of your next turn.	(3) Deal 300 damage. If this ability is used on your opponent’s turn, it deals 600 damage instead.
+Charge-Kur-Goh	STRT	Charge_Kur_Goh	Charge_Kur_Goh_s	012	Beast	Runner	Charge	450	50	1	5	-	Attempt to capture an opponent’s Flag Catalyst. If the attempt fails, this Beast becomes QUICKENED. This effect can be compounded.	(3) If this Beast’s speed is 3, it’s attempts to capture Flag Catalysts cannot fail this turn.
+Wallra	STRT	Wallra	Wallra_s	013	Beast	Warden	Frost	600	50	2	5	-	Select a Beast; Until the start of your next turn, this Beast takes up to 400 damage that selected Beast would have taken.	(3) HYPER: When your opponent attempts to capture your Flag Catalyst, you can make that attempt fail and FORTIFY a Beast you control until the start of your next turn.
+Pileus	STRT	Pileus	Pileus_s	014	Beast	Warden	Sky	500	100	3	7	-	HYPER: If an opponent attempts to capture a Flag Catalyst, make that attempt fail and return this Beast to your hand.	(3) HYPER: If this Beast is added to your hand by a Beast’s ability, all enemy Beasts lose 100 HP.
+Croth the Creator	STRT	Croth_The_Creator	Croth_The_Creator_s	015	Beast	Runner	Flora	400	100	1	3	-	Attempt to capture an opponent’s Flag Catalyst. If the attempt fails, enemy Beasts cannot attack until the start of your next turn.	(3) If your opponent did not attack on their last turn, this Beast can attempt to capture a Flag Catalyst for no cost this turn.
+Meeeech	STRT	Meeeech	Meeeech_s	016	Beast	Runner	Frost	300	200	3	3	-	Attempt to capture an opponent’s Flag Catalyst. If successful, all enemy Beasts become CHILLED.	(3) If this Beast Card is in your Discard Pile, you can conjure it to your field.
+Fiannafia	STRT	Fiannafia	Fiannafia_s	017	Beast	Brawler	Sky	300	300	2	7	-	Deal damage to a random enemy Beast equal to this Beast’s attack.	(3) HYPER: This turn, enemy Beasts must select their allies for attacks and must attack if able. This move has a 2-turn cooldown.
+Dustee the Stoneslinger	STRT	Dustee_the_Stoneslinger	Dustee_the_Stoneslinger_s	018	Beast	Brawler	Land	300	50	2	5	-	HYPER: Other Beasts damaged by Dustee’s standard attack become SHATTERED. This ability activates after this Beast attacks.	(3) Deal 400 damage to all SHATTERED Beasts.
+Chapelle of Sha'Rune	STRT	Chapelle_Of_ShaRune	Chapelle_Of_ShaRune_s	019	Beast	Warden	Aqua	500	150	2	7	-	Select a Beast; that selected Beast becomes FATE GUARDED until the start of your next turn.	(3) Double the current HP of this Beast and all Beasts you own with FATE GUARD. (This may exceed the written limit on a card).
+Avalona of Sha'Rune	STRT	Avalona_Of_ShaRune	Avalona_Of_ShaRune_s	020	Beast	Runner	Aqua	300	100	2	3	-	Select a Beast; that selected Beast becomes IRRESISTIBLE until the start of your next turn.	(3) If you control a Beast that is IRRESISTABLE; attempt to capture a Flag Catalyst, at no cost.
+Bardragon of Sha'Rune	STRT	Bardragon_Of_ShaRune	Bardragon_Of_ShaRune_s	021	Beast	Mender	Flora	450	100	2	5	-	Select a Beast; that selected Beast becomes SAFEGUARDED until the start of your next turn.	(3) HYPER: Return a SAFGUARDED Beast to the hand and conjure a Beast from your Discard Pile. This does not count towards your conjure limit for the turn.
+Trilex of Sha'Rune	STRT	Trilex_Of_ShaRune	Trilex_Of_ShaRune_s	022	Beast	Brawler	Charge	300	200	2	5	-	Select a Beast; that selected Beast becomes UNSTOPPABLE until the start of your next turn.	(3) UNSTOPPABLE Beasts you control can attack up to 3 times this turn but may not attack the same Beast more than once. This Beast can attack this turn.
+Gemtoe of Sha'Rune	STRT	Gemtoe_Of_ShaRune	Gemtoe_Of_ShaRune_s	023	Beast	Mender	Land	500	50	2	5	-	– Select a Beast; that selected Beast becomes FORTIFIED until the start of your next turn.	(3) HYPER: If a FORTIFIED Beast you own would take damage, select any Beast on the field; that selected Beast takes the damage instead.
+Menes of Sha'Rune	STRT	Menes_Of_ShaRune	Menes_Of_ShaRune_s	024	Beast	Menace	Frost	300	100	3	3	-	Select a Beast; that selected beast becomes INVIGORATED until the start of your next turn.	(3) HYPER: Until the end of the turn, INVIGORATED Beasts must use their abilities whenever possible, but only by selecting allied Beasts.
+Praxes of Sha'Rune	STRT	Praxes_Of_ShaRune	Praxes_Of_ShaRune_s	025	Beast	Menace	Land	300	100	2	3	-	Select a Beast; that selected Beast becomes FRUGAL until the start of your next turn. (You can use this ability twice per turn).	(3) HYPER: Until the end of this turn, if a FRUGAL Beast would activate its effect; your opponent must pay the written cost.
+/3-uZZ of Sha'Rune	STRT	Buzz_Of_ShaRune	Buzz_Of_ShaRune_s	026	Beast	Menace	Charge	300	100	2	3	-	Select a Beast; that selected Beast becomes REJUVENATED until the start of your next turn.	(3) HYPER: If a Beast you control becomes REJUVENATED, select a separate Beast; that Beast gains the Affliction the REJUVENATED Beast originally had.
+Barknimbus of Sha’Rune	STRT	Barknimbus_Of_ShaRune	Barknimbus_Of_ShaRune_s	027	Beast	Mender	Sky	450	50	2	5	-	Select a Beast; that selected Beast gains UNBREAKING until the start of your next turn.	(3) HYPER: If a Beast you control drops below 100HP; restore it to full HP.
+Ziggy, the Mammagi	STRT	Ziggy_the_Mammagi	Ziggy_the_Mammagi_s	028	Beast	Menace	Sky	300	150	2	5	-	Select a Beast; that selected Beast becomes WINDED. This move has a 2-turn cooldown.	(3) HYPER: Force a Beast to use an ability, ignoring turn, Speed, or Soul Point requirements.
+Ringy, the Mammagi	STRT	Ringy_the_Mammagi	Ringy_the_Mammagi_s	029	Beast	Brawler	Blaze	300	150	2	5	-	Select a Beast; that selected Beast becomes SINGED. This move has a 2-turn cooldown.	(3) HYPER: Deal 100 damage to all enemy Beasts.
+Tusky, the Mammagi	STRT	Tusky_the_Mammagi	Tusky_the_Mammagi_s	030	Beast	Menace	Aqua	300	150	2	5	-	Select a Beast; that selected Beast becomes FLOODED. This move has a 2-turn cooldown.	(3) HYPER: Select a Beast whose Battle Stats are different than their printed ones; send that selected Beast to the Discard Pile. (You do not gain Soul Points from this effect).
+Shaky, the Mammagi	STRT	Shaky_the_Mammagi	Shaky_the_Mammagi_s	031	Beast	Mender	Frost	300	150	2	5	-	Select a Beast; that selected Beast becomes CHILLED. This move has a 2-turn cooldown.	(3) HYPER: Select a CHILLED Beast; Restore a different Beasts HP equal to the printed ATK value of that selected CHILLED Beast.
+Oopsy, the Mammagi	STRT	Oopsy_the_Mammagi	Oopsy_the_Mammagi_s	032	Beast	Mender	Charge	300	150	2	5	-	Select a Beast; that selected Beast becomes SHOCKED. This move has a 2-turn cooldown.	(3) HYPER: Select a SHOCKED Beast; that selected SHOCKED Beast has its HP fully restored and becomes FRUGAL until the start of your next turn.
+Booey, the Mammagi	STRT	Booey_the_Mammagi	Booey_the_Mammagi_s	033	Beast	Warden	Land	300	150	2	5	-	Select a Beast; that selected Beast becomes SHATTERED. This move has a 2-turn cooldown.	(3) HYPER: Select a SHATTERED Beast; that selected SHATTERED Beast cannot select any Beasts you control with their abilities while they are SHATTERED.
+Stinky, the Mammagi	STRT	Stinky_the_Mammagi	Stinky_the_Mammagi_s	034	Beast	Brawler	Toxic	300	150	2	5	-	Select a Beast; that selected Beast becomes INFECTED. This move has a 2-turn cooldown.	(3) HYPER: Select an INFECTED Beast; reduce that selected INFECTED Beast’s HP to 150.
+Stumpy, the Mammagi	STRT	Stumpy_the_Mammagi	Stumpy_the_Mammagi_s	035	Beast	Warden	Flora	300	150	2	5	-	Select a Beast; that selected Beast becomes ENTANGLED. This move has a 2-turn cooldown.	(3) HYPER: Select an ENTANGLED Beast; that selected ENTANGLED Beast cannot attempt to capture a Flag Catalyst this turn.
+Tigris Sha'Man	STRT	Tigris_ShaMan	Tigris_ShaMan_s	036	Beast	Mender	Aqua	400	200	2	5	-	– Restore up to 100 HP to a Beast you control. Then, add one Beast of a Class you do not control from your Discard Pile to your hand.	(3) Up to the number of Beasts in your Discard Pile, Grant UNSTOPPABLE to Beasts you control until the start of your next turn.
+Artifact of Awakening	STRT	Artifact_Of_Awakening	Artifact_Of_Awakening_s	037	Catalyst	Flag	Unbound	-	-	-	20	Your opponent must pay Soul Points equal to the capturing Runner’s KO reward.	Once per turn, you can activate a Beast’s cost ability without using any Soul Points.	-
+Chalice of Undoing	STRT	Chalice_Of_Undoing	Chalice_Of_Undoing_s	038	Catalyst	Flag	Unbound	-	-	-	20	Your opponent’s Runner must have an Affliction.	Once per turn, the first time an allied Beast battles; that Beast it’s battling becomes INFECTED.	-
+Orb of Fortitude	STRT	Orb_Of_Fortitude	Orb_Of_Fortitude_s	039	Catalyst	Flag	Unbound	-	-	-	20	Your opponent must send one Brawler they control to the Discard Pile.	Damage from enemy Beasts’ attacks and abilities is reduced by 100.	-
 Mammon	STRT	Mammon	Mammon_s	040	Beast	Runner	Blaze	300	100	3	7	-
 Velenia	STRT	Velenia	Velenia_s	041	Beast	Mender	Toxic	400	100	3	7	-
 Emberphant	STRT	Emberphant	Emberphant_s	042	Beast	Warden	Blaze	700	50	2	5	-
@@ -72,35 +72,35 @@ A Small Loan	STRT	A_Small_Loan	A_Small_Loan_s	070	Catalyst	Standard	Unbound	-	-	
 Instant Treatment	STRT	Instant_Treatment	Instant_Treatment_s	071	Catalyst	Hyper	Unbound	-	-	-	-	-
 The Hollowed Portrait	STRT	The_Hollowed_Portrait	The_Hollowed_Portrait_s	072	Catalyst	Flag	Unbound	-	-	-	30	-
 
-Mirage Kitten Token	STRT	Mirage_Kitten_Token	Mirage_Kitten_Token_s	073	Token	Beast Token	Blaze	50	50	1	-	-	-
+Mirage Kitten Token	STRT	Mirage_Kitten_Token	Mirage_Kitten_Token_s	PR1	Token	Beast Token	Blaze	50	50	1	-	-	-
 
-Ardinlac The Blustermage	FAAS	Ardinlac_The_Blustermage	Ardinlac_The_Blustermage_s
-Ate The Blustermage	FAAS	Ate_The_Blustermage	Ate_The_Blustermage_s
-Blustermage Cloak Ceremony	FAAS	Blustermage_Cloak_Ceremony	Blustermage_Cloak_Ceremony_s
-Blustermage Nesting	FAAS	Blustermage_Nesting	Blustermage_Nesting_s
-Blustermage Olive Branch	FAAS	Blustermage_Olive_Branch	Blustermage_Olive_Branch_s
-Cawma The Blustermage	FAAS	Cawma_The_Blustermage	Cawma_The_Blustermage_s
-Cecili The Blustermage	FAAS	Cecili_The_Blustermage	Cecili_The_Blustermage_s
-Grand Blustermage Library	FAAS	Grand_Blustermage_Library	Grand_Blustermage_Library_s
-Kenja The Blustermage	FAAS	Kenja_The_Blustermage	Kenja_The_Blustermage_s
-Quetzalli The Blustermage	FAAS	Quetzalli_The_Blustermage	Quetzalli_The_Blustermage_s
-Ramona The Blustermage	FAAS	Ramona_The_Blustermage	Ramona_The_Blustermage_s
-Shorenti Accumulation	FAAS	Shorenti_Accumulation	Shorenti_Accumulation_s
-Shorenti Awakening	FAAS	Shorenti_Awakening	Shorenti_Awakening_s
-Shorenti Chalcedonyus	FAAS	Shorenti_Chalcedonyus	Shorenti_Chalcedonyus_s
-Shorenti Chordy	FAAS	Shorenti_Chordy	Shorenti_Chordy_s
-Shorenti Crysadillo	FAAS	Shorenti_Crysadillo	Shorenti_Crysadillo_s
-Shorenti Gem Offering	FAAS	Shorenti_Gem_Offering	Shorenti_Gem_Offering_s
-Shorenti Gembug	FAAS	Shorenti_Gembug	Shorenti_Gembug_s
-Shorenti Gempaca	FAAS	Shorenti_Gempaca	Shorenti_Gempaca_s
-Shorenti Grendyl	FAAS	Shorenti_Grendyl	Shorenti_Grendyl_s
-Shorenti Kintana	FAAS	Shorenti_Kintana	Shorenti_Kintana_s
-Shorenti Surprise	FAAS	Shorenti_Surprise	Shorenti_Surprise_s
-Shorenti Wellspring	FAAS	Shorenti_Wellspring	Shorenti_Wellspring_s
-Solon The Blustermage	FAAS	Solon_The_Blustermage	Solon_The_Blustermage_s
-Somethin' Ain't Right	FAAS	Somethin_Aint_Right	Somethin_Aint_Right_s
-Utter Defeat	FAAS	Utter_Defeat	Utter_Defeat_s
-You're Coming With Me	FAAS	Youre_Coming_With_Me	Youre_Coming_With_Me_s
+Shorenti Grendyl	FAAS	Shorenti_Grendyl	Shorenti_Grendyl_s	001	Beast	Mender	Land	300	100	2	3	-
+Shorenti Chordy	FAAS	Shorenti_Chordy	Shorenti_Chordy_s	002	Beast	Menace	Land	300	100	2	3	-
+Shorenti Chalcedonyus	FAAS	Shorenti_Chalcedonyus	Shorenti_Chalcedonyus_s	003	Beast	Brawler	Land	300	100	2	3	-
+Shorenti Awakening	FAAS	Shorenti_Awakening	Shorenti_Awakening_s	004	Catalyst	Hyper	Unbound	-	-	-	-	-
+Shorenti Kintana	FAAS	Shorenti_Kintana	Shorenti_Kintana_s	005	Beast	Runner	Land	300	100	2	3	-
+Shorenti Gem Offering	FAAS	Shorenti_Gem_Offering	Shorenti_Gem_Offering_s	006	Catalyst	Flag	Unbound	-	-	-	20	Your opponent must send one Beast they own to the Discard Pile.	Once during either player’s turn, when a card or effect is activated, you can send a “Shorenti” card you own to the Discard Pile; negate that card’s effects and destroy it. If this card is in your Discard Pile, you can send one “Shorenti” card from your Deck to the Discard Pile; add this card to your hand.	-
+Shorenti Gempaca	FAAS	Shorenti_Gempaca	Shorenti_Gempaca_s	007	Beast	Warden	Land	300	100	2	3	-
+Shorenti Surprise	FAAS	Shorenti_Surprise	Shorenti_Surprise_s	008	Catalyst	Hyper	Unbound	-	-	-	-	-
+Shorenti Wellspring	FAAS	Shorenti_Wellspring	Shorenti_Wellspring_s	009	Catalyst	Flag	Unbound	-	-	-	20	Your opponent must send 1 card from their hand to the Discard Pile.	When this card is placed in your Flag Zone, you can conjure 1 “Shorenti” Beast from your hand or Discard Pile. This does not count towards your conjure limit. Every time a “Shorenti” card is sent to or conjured from your Discard Pile, gain 1 Soul Point.	-
+Shorenti Accumulation	FAAS	Shorenti_Accumulation	Shorenti_Accumulation_s	010	Catalyst	Hyper	Unbound	-	-	-	-	-
+Shorenti Crysadillo	FAAS	Shorenti_Crysadillo	Shorenti_Crysadillo_s	011	Beast	Warden	Land	300	100	2	3	-
+Shorenti Gembug	FAAS	Shorenti_Gembug	Shorenti_Gembug_s	012	Beast	Menace	300	100	2	3	-
+Cawma The Blustermage	FAAS	Cawma_The_Blustermage	Cawma_The_Blustermage_s	013	Beast	Brawler	Sky	300	200	3	7	-
+Ramona The Blustermage	FAAS	Ramona_The_Blustermage	Ramona_The_Blustermage_s	014	Beast	Warden	Sky	500	100	3	7	-
+Kenja The Blustermage	FAAS	Kenja_The_Blustermage	Kenja_The_Blustermage_s	015	Beast	Runner	Sky	300	50	3	7	-
+Solon The Blustermage	FAAS	Solon_The_Blustermage	Solon_The_Blustermage_s	016	Beast	Mender	Sky	400	50	3	7	-
+Cecili The Blustermage	FAAS	Cecili_The_Blustermage	Cecili_The_Blustermage_s	017	Beast	Menace	Sky	300	150	3	7	-
+Blustermage Olive Branch	FAAS	Blustermage_Olive_Branch	Blustermage_Olive_Branch_s	018	Catalyst	Flag	Unbound	-	-	-	10	Your opponent must return 1 Beast they own to their hand.	You can place this Flag Catalyst from your hand into your opponent’s Flag Zone. This Flag Catalyst cannot be replaced by another Flag Catalyst. Every time a “Blustermage” Beast is returned to or conjured from your opponent’s hand, they gain 1 Soul Point.	-
+Blustermage Nesting	FAAS	Blustermage_Nesting	Blustermage_Nesting_s	019	Catalyst	Flag	Unbound	-	-	-	20	Your opponent must return 1 Beast they own to their hand.	Conjuring “Blustermage” Beasts from your hand on your opponent’s turn does not count towards your conjure limit for the turn. Once per turn, you can return one “Blustermage” card you own to the hand and select a card your opponent owns; return that selected card to the hand.	-
+Grand Blustermage Library	FAAS	Grand_Blustermage_Library	Grand_Blustermage_Library_s	020	Catalyst	Hyper	Unbound	-	-	-	-	-
+Ardinlac The Blustermage	FAAS	Ardinlac_The_Blustermage	Ardinlac_The_Blustermage_s	021	Beast	Warden	Sky	600	100	3	7	-
+Quetzalli The Blustermage	FAAS	Quetzalli_The_Blustermage	Quetzalli_The_Blustermage_s	022	Beast	Brawler	Sky	300	200	3	7	-
+Blustermage Cloak Ceremony	FAAS	Blustermage_Cloak_Ceremony	Blustermage_Cloak_Ceremony_s	023	Catalyst	Standard	Unbound	-	-	-	-	-
+Ate The Blustermage	FAAS	Ate_The_Blustermage	Ate_The_Blustermage_s	024	Beast	Menace	Sky	200	200	3	7	-
+Utter Defeat	FAAS	Utter_Defeat	Utter_Defeat_s	025	Catalyst	Hyper	Unbound	-	-	-	-	-
+Somethin' Ain't Right	FAAS	Somethin_Aint_Right	Somethin_Aint_Right_s	026	Catalyst	Hyper	Unbound	-	-	-	-	-
+You're Coming With Me	FAAS	Youre_Coming_With_Me	Youre_Coming_With_Me_s	027	Catalyst	Hyper	Unbound	-	-	-	-	-
 
 Afflictions	REF0	Afflictions		001	Reference	Afflictions	-	-	-	-	-	-
 Empowerments	REF0	Empowerments		002	Reference	Empowerments	-	-	-	-	-	-
