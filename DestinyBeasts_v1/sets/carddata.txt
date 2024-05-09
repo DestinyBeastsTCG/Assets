@@ -70,7 +70,7 @@ Fractured Remains	STRT	Fractured_Remains	Fractured_Remains_s	068	Catalyst	Flag	U
 Chilling Echoes	STRT	Chilling_Echoes	Chilling_Echoes_s	069	Catalyst	Flag	Unbound	-	-	-	10	-
 A Small Loan	STRT	A_Small_Loan	A_Small_Loan_s	070	Catalyst	Standard	Unbound	-	-	-	-	-
 Instant Treatment	STRT	Instant_Treatment	Instant_Treatment_s	071	Catalyst	Hyper	Unbound	-	-	-	-	-
-The Hollowed Portrait	STRT	The_Hollowed_Portrait	The_Hollowed_Portrait_s	072	Catalyst	Flag	Unbound	-	-	-	30	-
+The Hallowed Portrait	STRT	The_Hallowed_Portrait	The_Hallowed_Portrait_s	072	Catalyst	Flag	Unbound	-	-	-	30	-
 
 Mirage Kitten Token	STRT	Mirage_Kitten_Token	Mirage_Kitten_Token_s	PR1	Token	Beast Token	Blaze	50	50	1	-	-	-
 
