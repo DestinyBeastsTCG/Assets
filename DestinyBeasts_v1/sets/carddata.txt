@@ -48,7 +48,7 @@ Stone of Cursed Souls	STRT	Stone_Of_Cursed_Souls	Stone_Of_Cursed_Souls_s	046	Cat
 Tragedy and Comedy	STRT	Tragedy_and_Comedy	Tragedy_and_Comedy_s	047	Catalyst	Flag	Unbound	-	-	-	20	-
 Healing Hibiscus	STRT	Healing_Hibiscus	Healing_Hibiscus_s	048	Catalyst	Flag	Unbound	-	-	-	10	-
 Heirloom of Guidance	STRT	Heirloom_Of_Guidance	Heirloom_Of_Guidance_s	049	Catalyst	Flag	Unbound	-	-	-	20	-
-Artifact from the Depths	STRT	Artiface_from_the_Depths	Artiface_from_the_Depths_s	050	Catalyst	Flag	Unbound	-	-	-	10	-
+Artifact from the Depths	STRT	Artifact_from_the_Depths	Artifact_from_the_Depths_s	050	Catalyst	Flag	Unbound	-	-	-	10	-
 Song of the Trickster	STRT	Song_Of_the_Trickster	Song_Of_the_Trickster_s	051	Catalyst	Flag	Unbound	-	-	-	10	-
 A Fateful Interaction	STRT	A_Fateful_Interaction	A_Fateful_Interaction_s	052	Catalyst	Standard	Unbound	-	-	-	-	-
 Ready, Set, Go!	STRT	Ready_Set_Go	Ready_Set_Go_s	053	Catalyst	Standard	Unbound	-	-	-	-	-
