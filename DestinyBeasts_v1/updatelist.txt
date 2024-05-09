@@ -1,10 +1,16 @@
-DestinyBeastsTCG	05-07-24
+DestinyBeastsTCG	05-09-24
 
 plugins/DestinyBeastsTCG/uninstall.txt	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/uninstall.txt	33332
 plugins/DestinyBeastsTCG/plugininfo.txt	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/plugininfo.txt	382011
 plugins/DestinyBeastsTCG/version.txt	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/version.txt	27525
 plugins/DestinyBeastsTCG/formats.txt	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/formats.txt	16278
 plugins/DestinyBeastsTCG/pluginpreferences.txt	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/pluginpreferences.txt	263435
+plugins/DestinyBeastsTCG/images/Phase1.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/images/Phase1.jpg	-54933
+plugins/DestinyBeastsTCG/images/Phase2.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/images/Phase2.jpg	-41362
+plugins/DestinyBeastsTCG/images/Phase3.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/images/Phase3.jpg	-10795
+plugins/DestinyBeastsTCG/images/Phase4.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/images/Phase4.jpg	24778
+plugins/DestinyBeastsTCG/images/Phase5.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/images/Phase5.jpg	-8514
+plugins/DestinyBeastsTCG/images/Phase6.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/images/Phase6.jpg	-7368
 plugins/DestinyBeastsTCG/sets/carddata.txt	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/carddata.txt	1219407
 plugins/DestinyBeastsTCG/decks/Blustermage_Deck.dek	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/decks/Blustermage_Deck.dek	977427
 plugins/DestinyBeastsTCG/decks/Shorenti_Deck.dek	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/decks/Shorenti_Deck.dek	956580
@@ -38,17 +44,79 @@ REF0/Empowerment_Safeguarded.jpg 	https://destinybeaststcg.github.io/Assets/Dest
 REF0/Empowerment_Unbreaking.jpg 	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/REF0/Empowerment_Unbreaking.jpg
 REF0/Empowerment_Unstoppable.jpg 	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/REF0/Empowerment_Unstoppable.jpg
 
+STRT/A_Fateful_Interaction.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/STRT/A_Fateful_Interaction.jpg
 STRT/A_Friend_in_Need.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/STRT/A_Friend_in_Need.jpg
+STRT/A_Painful_Reflection.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/STRT/A_Painful_Reflection.jpg
+STRT/A_Small_Loan.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/STRT/A_Small_Loan.jpg
+STRT/Artifact_From_The_Depths.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/STRT/Artifact_From_The_Depths.jpg
 STRT/Artifact_of_Awakening.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/STRT/Artifact_of_Awakening.jpg
+STRT/Avalona_Of_ShaRune.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/STRT/Avalona_Of_ShaRune.jpg
+STRT/AxiTol_Of_ShaRune.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/STRT/AxiTol_Of_ShaRune.jpg
+STRT/Bardragon_Of_ShaRune.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/STRT/Bardragon_Of_ShaRune.jpg
+STRT/Barknimbus_Of_ShaRune.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/STRT/Barknimbus_Of_ShaRune.jpg
+STRT/Betticus.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/STRT/Betticus.jpg
+STRT/Booey_The_Mammagi.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/STRT/Booey_The_Mammagi.jpg
+STRT/Break_It_Down.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/STRT/Break_It_Down.jpg
+STRT/BuZZ_Of_ShaRune.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/STRT/BuZZ_Of_ShaRune.jpg
+STRT/Cerasus.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/STRT/Cerasus.jpg
+STRT/Chalice_Of_Undoing.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/STRT/Chalice_Of_Undoing.jpg
+STRT/Chapelle_Of_ShaRune.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/STRT/Chapelle_Of_ShaRune.jpg
+STRT/Charge_Kur_Goh.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/STRT/Charge_Kur_Goh.jpg
+STRT/Chelsea.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/STRT/Chelsea.jpg
+STRT/Chilling_Echoes.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/STRT/Chilling_Echoes.jpg
+STRT/Concoction_349.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/STRT/Concoction_349.jpg
+STRT/Conjure_Party.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/STRT/Conjure_Party.jpg
+STRT/Croth_The_Creator.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/STRT/Croth_The_Creator.jpg
+STRT/Dustee_The_Stoneslinger.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/STRT/Dustee_The_Stoneslinger.jpg
+STRT/Emberphant.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/STRT/Emberphant.jpg
+STRT/Erwin.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/STRT/Erwin.jpg
 STRT/Fearline.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/STRT/Fearline.jpg
+STRT/Fiannafia.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/STRT/Fiannafia.jpg
+STRT/Fractured_Remains.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/STRT/Fractured_Remains.jpg
+STRT/Gemtoe_Of_ShaRune.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/STRT/Gemtoe_Of_ShaRune.jpg
+STRT/Gifts_From_The_Sky.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/STRT/Gifts_From_The_Sky.jpg
 STRT/GWEN.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/STRT/GWEN.jpg
+STRT/Healing_Hibiscus.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/STRT/Healing_Hibiscus.jpg
+STRT/Heirloom_Of_Guidance.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/STRT/Heirloom_Of_Guidance.jpg
+STRT/Hyper_Charger.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/STRT/Hyper_Charger.jpg
+STRT/Instant_Treatment.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/STRT/Instant_Treatment.jpg
+STRT/Just_A_Glance.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/STRT/Just_A_Glance.jpg
+STRT/Mammon.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/STRT/Mammon.jpg
+STRT/Meeeech.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/STRT/Meeeech.jpg
+STRT/Menes_Of_ShaRune.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/STRT/Menes_Of_ShaRune.jpg
+STRT/Mirage_Kitten_Token.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/STRT/Mirage_Kitten_Token.jpg
 STRT/Myx_Up.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/STRT/Myx_Up.jpg
 STRT/Nelly.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/STRT/Nelly.jpg
 STRT/Noms.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/STRT/Noms.jpg
-STRT/Ready_Set_Go.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/STRT/Ready_Set_Go.jpg
+STRT/Noms_Berry_Pie.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/STRT/Noms_Berry_Pie.jpg
+STRT/Oopsy_The_Mammagi.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/STRT/Oopsy_The_Mammagi.jpg
+STRT/Orb_Of_Fortitude.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/STRT/Orb_Of_Fortitude.jpg
+STRT/Pileus.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/STRT/Pileus.jpg
 STRT/Pink_Slipped.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/STRT/Pink_Slipped.jpg
+STRT/Praxes_Of_ShaRune.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/STRT/Praxes_Of_ShaRune.jpg
+STRT/Ready_Set_Go.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/STRT/Ready_Set_Go.jpg
 STRT/Return_Of_An_Ally.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/STRT/Return_Of_An_Ally.jpg
+STRT/Ringy_The_Mammagi.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/STRT/Ringy_The_Mammagi.jpg
+STRT/Shaky_The_Mammagi.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/STRT/Shaky_The_Mammagi.jpg
+STRT/Sheen.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/STRT/Sheen.jpg
+STRT/Song_Of_The_Trickster.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/STRT/Song_Of_The_Trickster.jpg
+STRT/Stinky_The_Mammagi.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/STRT/Stinky_The_Mammagi.jpg
+STRT/Stone_Of_Cursed_Souls.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/STRT/Stone_Of_Cursed_Souls.jpg
+STRT/Stumpy_The_Mammagi.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/STRT/Stumpy_The_Mammagi.jpg
 STRT/Sugaran.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/STRT/Sugaran.jpg
+STRT/The_Hallowed_Portrait.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/STRT/The_Hallowed_Portrait.jpg
+STRT/Tigris_ShaMan.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/STRT/Tigris_ShaMan.jpg
+STRT/Toxebred_Of_ShaRune.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/STRT/Toxebred_Of_ShaRune.jpg
+STRT/Tragedy_And_Comedy.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/STRT/Tragedy_And_Comedy.jpg
+STRT/Trilex_Of_ShaRune.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/STRT/Trilex_Of_ShaRune.jpg
+STRT/Try_Again.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/STRT/Try_Again.jpg
+STRT/Tusky_The_Mammagi.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/STRT/Tusky_The_Mammagi.jpg
+STRT/Velenia.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/STRT/Velenia.jpg
+STRT/Wallra.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/STRT/Wallra.jpg
+STRT/Welcome_To_The_Fray.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/STRT/Welcome_To_The_Fray.jpg
+STRT/What_Goes_Around.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/STRT/What_Goes_Around.jpg
+STRT/Youre_Outta_Here.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/STRT/Youre_Outta_Here.jpg
+STRT/Ziggy_The_Mammagi.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/STRT/Ziggy_The_Mammagi.jpg
 
 FAAS/Ardinlac_The_Blustermage.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/FAAS/Ardinlac_The_Blustermage.jpg
 FAAS/Ate_The_Blustermage.jpg	https://destinybeaststcg.github.io/Assets/DestinyBeasts_v1/sets/setimages/FAAS/Ate_The_Blustermage.jpg
