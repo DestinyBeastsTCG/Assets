@@ -57,8 +57,8 @@ G.W.E.N.	STRT	GWEN	GWEN_s	055	Beast	Runner	Toxic	400	100	2	5	-
 Nelly	STRT	Nelly	Nelly_s	056	Beast	Warden	Charge	500	100	2	7	-
 Sheen	STRT	Sheen	Sheen_s	057	Beast	Menace	Toxic	300	100	3	7	-
 Myx-up	STRT	Myx_up	Myx_up_s	058	Catalyst	Hyper	Unbound	-	-	-	-	-
-A Myx-up in Fortitude	STRT	A_Myxup_in_Fortitude	A_Myxup_in_Fortitude_s	059	Catalyst	Hyper	Unbound	-	-	-	-	-
-Power Myx-up	STRT	Power_Myxup	Power_Myxup_s	060	Catalyst	Standard	Unbound	-	-	-	-	-
+Try Again?	STRT	Try_Again	Try_Again_s	059	Catalyst	Hyper	Unbound	-	-	-	-	-
+Just A Glance	STRT	Just_A_Glance	Just_A_Glance_s	060	Catalyst	Standard	Unbound	-	-	-	-	-
 Noms	STRT	Noms	Noms_s	061	Beast	Brawler	Flora	300	100	1	3	-
 Noms' Berry Pie	STRT	Noms_Berry_Pie	Noms_Berry_Pie_s	062	Catalyst	Hyper	Unbound	-	-	-	-	-
 Fearline	STRT	Fearline	Fearline_s	063	Beast	Menace	Blaze	300	200	3	5	-
